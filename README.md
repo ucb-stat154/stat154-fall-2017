@@ -4,10 +4,111 @@ This repository holds the course materials for the Fall 2017 edition of
 __Statistics 154: Modern Statistical Prediction and Machine Learning__ at UC Berkeley.
 
 
-## Contents
+- __Instructor:__ Gaston Sanchez, gaston.stat[at]gmail.com
+- __Class Time:__ MWF 1-2pm in 3108 Etcheverry
+- __Session Dates:__ 08/23/17 - 12/08/17
+- __Code #:__ 20978
+- __Units:__ 4 (more info [here](http://classes.berkeley.edu/content/2017-fall-stat-154-001-lec-001))
+- __Office Hours:__ TBA in 309 Evans (or by appointment)
+- __Final:__ TBA
+- __GSIs:__ Office hours of the GSIs will be posted on the bCourses page. 
+You can go to the office hours of __any__ GSI, not just your own.
 
-- Labs
-- Data
+
+| Lab | Date         | Room         | GSI             |
+|-----|--------------|--------------|-----------------|
+| 101 | M 9am-11am   | 334 Evans    | TBD    |
+| 102 | M 11am-1pm   | 334 Evans    | TBD    |
+
+
+
+### Description
+
+In this course, students will explore the predictive modeling lifecycle, including question formulation, data preprocessing, exploratory data analysis and visualization, model building, model assessment/validation, model selection, and decision-making.​ 
+
+This class will focus on quantitative critical thinking​ and key principles and techniques needed to carry out this cycle. 1) Foundational principles for building predictive models; 2) Intuitive explanations of many commonly used predictive modeling techniques for both classification and regression problems; 3) Principles and steps for validating a predictive model; and 4) write and use computer code to perform the necessary foundational work to build and validate predictive models.
+
+
+
+### Contents
+
+The course focuses on predictive models, and it covers the following 
+topics (not necessarily in the displayed order):
+
+- Process of predictive model building
+- Data Preprocessing
+- Regression Models
+    + Linear models
+    + Non-linear models
+    + Tree-based methods
+- Classification Models
+    + Linear models
+    + Non-linear models
+    + Tree-based methods
+    + Support Vector Machines
+- Data spending: splitting and resampling methods
+- Model Evaluation
+- Model Selection
+
+
+
+### Prerequisites / Review
+
+- Multivariate calculus or the equivalent, esp. partial derivatives; e.g. Math 53
+- Linear algebra or the equivalent (matrices, vector spaces); e.g. Math 54
+- Statistical inference or the equivalent; e.g. Stat 135
+- Scripting experience in R required; e.g. Stat 133
+
+This course will build on a lot of material from matrix algebra. In particular, you should be comfortable with notions such as vector spaces, inner products, norms, matrix products/transpose/rank/determinants/inverses, as well as matrix decompositions. 
+
+You should also have some scripting experience---preferably in R---at the level of writing functions, conditionals (if-then-else structures), for loops, while loops, sampling, read in data sets, export results.
+
+Last but not least, it is nice to know the basics of Rmd files, as well as some knowledge of LaTeX, especially some experience writing math symbols and equations.
+
+
+
+### Textbook
+
+The primary text is __An Introduction to Statistical Learning__ by James, Witten, Hastie, and Tibshirani. Springer, 2013. It is freely available online in pdf format (courtesy of the authors) at [http://www-bcf.usc.edu/~gareth/ISL/](http://www-bcf.usc.edu/~gareth/ISL/)
+
+As supporting material, I will also be using __Applied Predictive Modeling__ by Max Kuhn and Kjell Johnson. Springer, 2013. You can find this book in electronic format via the UCB Library Catalog.
+
+Other good (optional) references for the course are:
+
+- __The Elements of Statistical Learning__ by Hastie, Tibshirani and Friedman. Springer, 2009 (2nd Ed). This book is more mathematically advanced than the one above. It is freely available online in pdf format (courtesy of the authors) at [https://statweb.stanford.edu/~tibs/ElemStatLearn/](https://statweb.stanford.edu/~tibs/ElemStatLearn/) (Courtesy of the authors). This text will not be used directly for this course and is simply a reference for more theoretical details.
+
+- __Statistical Learning from a Regression Perspective__ by Richard Berk. Springer 2008.
+You can find this book in electronic format via the UCB Library Catalog.
+
+
+
+### Expectations
+
+We expect that at the end of the course you:
+
+- Have a basic understanding of the prediction modeling process/lyfecycle.
+- Be able to read a well-described algorithm, and write code to implement it 
+computationally.
+- Know the pros and cons of each predictive technique.
+- Be able to describe (to non-professionals) what a predictive technique is doing.
+
+
+
+### Methods of Instruction
+
+- We will be using a combination of materials such as slides, tutorials, 
+reading assignments, and chalk-and-talk.
+- The main computational tool will be the [computing and programming environment R](https://www.r-project.org/). 
+- The main workbench will be the IDE [RStudio](https://www.rstudio.com/).
+You will also use a terminal emulator to work with command line.
+
+
+
+### Other
+
+- Please read the course [logistics and policies](syllabus/policies.md) for mode details
+about the structure of the course, DO's and DONT's, etc.
+
 
 
 -----
