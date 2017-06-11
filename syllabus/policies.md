@@ -19,17 +19,12 @@
 ### Homework Assignments
 
 - Homework assignments will be assigned almost every two weeks (about 5/6 HW).
-- You will submit your homework via bCourses electronically (as a word, text, pdf, or html file).
-- I will drop your lowest HW score.
+- You will submit your homework to your Github repository.
+- You should also submit the github's link of your assignment to bCourses.
 - Don't wait until the last hour to do an assignment. Plan ahead and pace yourself.
-- Don't wait until the last minute to submit your assignment.
-- __No late assignments__ will be accepted, for any reason, including, but not 
-limited to, Internet congestion, system crashes, natural disasters, 
-theft, medical emergencies, personal crisis, theft or any extraordinary 
-circumnstances (e.g. illnes, exhaustion, mourning, loss of internet connection, bCourses is down, broken computer). Don't ask. I won't be sympathetic. 
-Plan ahead and pace yourself.
-- The homework assignments will get substantially more difficult as we
-progress with the course.
+- Don't wait until the last minute to push your commits.
+- __No late assignments__ will be accepted, for any reason, including, but not limited to, Internet congestion, system crashes, natural disasters, theft, medical emergencies, personal crisis, theft or any extraordinary circumnstances (e.g. illnes, exhaustion, mourning, loss of internet connection, bCourses is down, broken computer). Don't ask. I won't be sympathetic.
+- I will drop your lowest HW score.
 - If you collaborate with other students when working on a HW assignment, please include the names of those students in your submission.
 - You must write your own answers (using your own words). Copy and plagiarism will not be tolerated (see _Academic Honesty_ policy).
 
@@ -43,9 +38,13 @@ progress with the course.
 - If you do not take the final, you will NOT pass the class.
 - There will be __no early or makeup exams__.
 - Do not take the class if you are not available at these dates and times.
-- To ask for regrading, you must answer a test using pen. Tests answered with pencil will not be accepted for regrading.
-- When asking for regrading, please clearly state the reasons that make you think you deserve a higher score.
-- In case of regrading, I (Gaston Sanchez) will regrade your entire test.
+- We will use gradescope to grade the tests.
+- You will have one full week after grades are published on gradescope to request a regrade for the midterm. The final test is NOT eligible for regrades.
+- Please only ask for regrades if you see an error in the grading rather than a dispute with the rubric.
+- In case of regrading, I (Gaston Sanchez) will regrade your entire test. And I will be very strict.
+- During the regrading process you can lose points, even for questions you did not ask to be regraded.
+- Regrades are based on what you actually wrote, not on what you were thinking, or what you meant to say, or what you assumed or failed to assume.
+- After the regrade deadline, no requests will be considered, even if there was an error in the grading.
 
 
 
