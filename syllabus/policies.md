@@ -81,7 +81,7 @@ Rather than copying someone else's work, ask for help. You are not alone in this
 ### Email Policy
 
 - You should try to use email as a tool to set up a one-on-one meeting with me if office hours conflict with your schedule.
-- Use the subject line __Stat 133 Meeting Request__.
+- Use the subject line __Stat 154 Meeting Request__.
 - Your message should include at least two times when you would like to meet and a brief (one-two sentence) description of the reason for the meeting.
 - Do NOT expect me to reply right away (I may not reply on time).
 - If you have an emergency, talk to me later during class or office hours.
