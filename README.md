@@ -11,8 +11,7 @@ __Statistics 154: Modern Statistical Prediction and Machine Learning__ at UC Ber
 - __Units:__ 4 (more info [here](http://classes.berkeley.edu/content/2017-fall-stat-154-001-lec-001))
 - __Office Hours:__ TBA in 309 Evans (or by appointment)
 - __Final:__ TBA
-- __GSIs:__ Office hours of the GSIs will be posted on the bCourses page. 
-You can go to the office hours of __any__ GSI, not just your own.
+- __GSIs:__ Office hours of the GSI will be posted on the bCourses page. 
 
 
 | Lab | Date         | Room         | GSI             |
@@ -69,16 +68,16 @@ Last but not least, it is nice to know the basics of Rmd files, as well as some 
 
 ### Textbook
 
-The primary text is __An Introduction to Statistical Learning__ by James, Witten, Hastie, and Tibshirani. Springer, 2013. It is freely available online in pdf format (courtesy of the authors) at [http://www-bcf.usc.edu/~gareth/ISL/](http://www-bcf.usc.edu/~gareth/ISL/)
+The primary text is __An Introduction to Statistical Learning__ (ISL) by James, Witten, Hastie, and Tibshirani. Springer, 2013. It is freely available online in pdf format (courtesy of the authors) at [http://www-bcf.usc.edu/~gareth/ISL/](http://www-bcf.usc.edu/~gareth/ISL/)
 
 As supporting material, I will also be using __Applied Predictive Modeling__ by Max Kuhn and Kjell Johnson. Springer, 2013. You can find this book in electronic format via the UCB Library Catalog.
 
 Other good (optional) references for the course are:
 
-- __The Elements of Statistical Learning__ by Hastie, Tibshirani and Friedman. Springer, 2009 (2nd Ed). This book is more mathematically advanced than the one above. It is freely available online in pdf format (courtesy of the authors) at [https://statweb.stanford.edu/~tibs/ElemStatLearn/](https://statweb.stanford.edu/~tibs/ElemStatLearn/) (Courtesy of the authors). This text will not be used directly for this course and is simply a reference for more theoretical details.
+- __The Elements of Statistical Learning__ by Hastie, Tibshirani and Friedman. Springer, 2009 (2nd Ed). This book is more mathematically advanced than ISL. It is freely available online in pdf format (courtesy of the authors) at [https://statweb.stanford.edu/~tibs/ElemStatLearn/](https://statweb.stanford.edu/~tibs/ElemStatLearn/) (Courtesy of the authors). This text will not be used directly for this course and is simply a reference for more theoretical details.
 
 - __Statistical Learning from a Regression Perspective__ by Richard Berk. Springer 2008.
-You can find this book in electronic format via the UCB Library Catalog.
+You can find this book in electronic format via the UCB Library Catalog. This text will not be used directly for this course and is simply a reference for more theoretical details.
 
 
 
@@ -86,9 +85,9 @@ You can find this book in electronic format via the UCB Library Catalog.
 
 We expect that at the end of the course you:
 
-- Have a basic understanding of the prediction modeling process/lyfecycle.
+- Have a basic, yet solid, understanding of the prediction modeling process/lifecycle.
 - Be able to read a well-described algorithm, and write code to implement it 
-computationally.
+computationally (in R).
 - Know the pros and cons of each predictive technique.
 - Be able to describe (to non-professionals) what a predictive technique is doing.
 
@@ -100,7 +99,7 @@ computationally.
 reading assignments, and chalk-and-talk.
 - The main computational tool will be the [computing and programming environment R](https://www.r-project.org/). 
 - The main workbench will be the IDE [RStudio](https://www.rstudio.com/).
-You will also use a terminal emulator to work with command line.
+You will also use a terminal emulator to work with the command line.
 
 
 
