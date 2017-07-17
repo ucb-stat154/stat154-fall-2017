@@ -6,8 +6,8 @@ Tentative calendar, Fall 2017 (weekly topics)
 
 ## Course Introduction
 
-Aug 23-25: Introduction, policies/logistics, and course in a nutshell
-
+- Dates: Aug 23-25
+- Introduction, policies/logistics, and course in a nutshell
 - Slides
     + Course in a nutshell
     + Short tour
@@ -16,14 +16,13 @@ Aug 23-25: Introduction, policies/logistics, and course in a nutshell
 
 ## Matrix Algebra Housekeeping
 
-AugSep 28-01: Matrix Algebra Housekeeping
-
+- Dates: AugSep 28-01
+- Topics: Quick review of objects and functions in R to handle common (and not so common) matrix operations in R. Review of how to express basic statistical operations with vector-matrix notation, and discuss their geometric interpretations. Description of the data matrix, its rows-and-columns duality, and the various types of cross-products.
 - Slides:
     + Matrix operations in R
     + Statistical operations with vector-matrix notation
     + The duality of the data matrix, and common cross-products X'X and XX'
-- Lab:
-    + Matrix stuff (on your own)
+- Lab 1: Matrix stuff (on your own)
 
 -----
 
@@ -48,7 +47,7 @@ Sep 11-15: Principal Components Analysis
     + PCA from a geometric perspective
     + Applying PCA
 - Lab:
-    + EDA and PCA
+    + A bit of EDA and PCA
 
 -----
 
@@ -65,7 +64,7 @@ Sep 18-22:
 
 -----
 
-## Statistical Learning Ideas
+## Statistical Learning Ideas for Regression
 
 Sep 25-29:
 
