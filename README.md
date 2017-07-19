@@ -66,15 +66,15 @@ Last but not least, it is nice to know the basics of Rmd files, as well as some 
 
 
 
-### Textbook
+### Textbooks
 
-The primary text is __An Introduction to Statistical Learning__ (ISL) by James, Witten, Hastie, and Tibshirani. Springer, 2013. It is freely available online in pdf format (courtesy of the authors) at [http://www-bcf.usc.edu/~gareth/ISL/](http://www-bcf.usc.edu/~gareth/ISL/)
+The primary text is __An Introduction to Statistical Learning__ (ISL) by James, Witten, Hastie, and Tibshirani. Springer, 2013. It is freely available online in pdf format (courtesy of the authors) at [http://www-bcf.usc.edu/~gareth/ISL/](http://www-bcf.usc.edu/~gareth/ISL/).
 
 As supporting material, I will also be using __Applied Predictive Modeling__ by Max Kuhn and Kjell Johnson. Springer, 2013. You can find this book in electronic format via the UCB Library Catalog.
 
 Other good (optional) references for the course are:
 
-- __The Elements of Statistical Learning__ by Hastie, Tibshirani and Friedman. Springer, 2009 (2nd Ed). This book is more mathematically advanced than ISL. It is freely available online in pdf format (courtesy of the authors) at [https://statweb.stanford.edu/~tibs/ElemStatLearn/](https://statweb.stanford.edu/~tibs/ElemStatLearn/) (Courtesy of the authors). This text will not be used directly for this course and is simply a reference for more theoretical details.
+- __The Elements of Statistical Learning__ by Hastie, Tibshirani and Friedman. Springer, 2009 (2nd Ed). This book is more mathematically advanced than ISL. It is freely available online in pdf format (courtesy of the authors) at [https://statweb.stanford.edu/~tibs/ElemStatLearn/](https://statweb.stanford.edu/~tibs/ElemStatLearn/). This text will not be used directly for this course and is simply a reference for more theoretical details.
 
 - __Statistical Learning from a Regression Perspective__ by Richard Berk. Springer 2008.
 You can find this book in electronic format via the UCB Library Catalog. This text will not be used directly for this course and is simply a reference for more theoretical details.
