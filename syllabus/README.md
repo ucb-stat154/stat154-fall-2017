@@ -2,6 +2,11 @@
 
 Tentative calendar, Fall 2017 (weekly topics)
 
+- Labs: For the covered topics in a given week, the associated lab takes place on Monday of the following week.
+- ISL = _An Introduction to Statistical Learning_ (by James et al, 2015)
+- APM = _Applied Predictive Modeling_ (by Kuhn and Johnson, 2013)
+
+
 -----
 
 ## Course Introduction
@@ -17,7 +22,7 @@ Tentative calendar, Fall 2017 (weekly topics)
 ## Matrix Algebra Housekeeping
 
 - __Dates__: Aug 28-Sep 01
-- __Topics__: Quick review of objects and functions in R to handle common (and not so common) matrix operations in R. Review of how to express basic statistical operations with vector-matrix notation, and discuss their geometric interpretations. Description of the data matrix, its rows-and-columns duality, and the various types of cross-products.
+- __Topics__: Quick review of objects and functions in R to handle common (and not so common) matrix operations. Review of how to express basic statistical operations with vector-matrix notation, and discuss their geometric interpretations. Description of the data matrix, its rows-and-columns duality, and the various types of cross-products.
 - __Slides__:
     + Matrix operations in R
     + Statistical operations with vector-matrix notation
@@ -45,31 +50,33 @@ Tentative calendar, Fall 2017 (weekly topics)
     + PCA from a maximizing variance perspective 
     + PCA from a geometric perspective
     + Applying PCA
+- __Reading__: ISL 10; APM 3
 - __Lab 3__: A bit of EDA and PCA
 
 -----
 
 ## Regression via Least Squares
 
-Sep 18-22: 
-
-- Slides:
+- __Dates__: Sep 18-22
+- __Topics__: Introduction to Regression Analysis and the classic Linear Model framework. We begin with a bit of history, and then present the Least Squares minimization problem for both simple and multiple regression without any stochastic assumptions, just plain algebra, calculus and geometry. We also talk about some computational aspects to compute least squares.
+- __Slides__:
     + A bit of history
     + Simple OLS regression
     + Multiple OLS regression
-- Lab:
-    + OLS regression
+- __Reading__: ISL 10; APM 6.1-6.2
+- __Lab 4:__ OLS regression
 
 -----
 
 ## Statistical Learning Ideas for Regression
 
-Sep 25-29:
-
-- Slides:
+- __Dates__: Sep 25-29
+- __Topics__: After OLS regression, we cover fundamental Statistical Learning concepts such as measures for model performance, overfitting, training and test datasets, and resampling methods.
+These biulding blocks will allow you to better understand the alternative approaches for linear regression. 
+- __Slides__:
     + Inferential Aspects
     + Model Performance, Overfitting, and Training-Test
     + Multicollinearity
-- Lab:
-    + More OLS stuff with R
+- __Reading__: ISL 2 & 5; APM 4
+- __Lab 5__: More OLS stuff with R
 
