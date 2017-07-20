@@ -45,7 +45,7 @@ Tentative calendar, Fall 2017 (weekly topics)
 ## Principal Components Analysis (PCA)
 
 - __Dates__: Sep 11-15
-- __Topics__: Principal Components Analysis. Unsepervised learning approach for studying the structure of a data set (with quantiative variables). How PCA is connected with the SVD and EVD decompositions, interpretation of the outputs, and usefulness for Exploratory Data Analysis.
+- __Topics__: Principal Components Analysis. Unsepervised learning approach for studying the structure of a data set (of quantitative variables). How PCA is connected with the SVD and EVD decompositions, interpretation of the outputs, and usefulness for Exploratory Data Analysis.
 - __Slides__:
     + PCA from a maximizing variance perspective 
     + PCA from a geometric perspective
