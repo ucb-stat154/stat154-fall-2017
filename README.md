@@ -38,13 +38,13 @@ topics (not necessarily in the displayed order):
 - Data Preprocessing
 - Regression Models
     + Linear models
-    + Non-linear models
+    + Non-linear models (time permitting)
     + Tree-based methods
 - Classification Models
     + Linear models
     + Non-linear models
     + Tree-based methods
-    + Support Vector Machines
+    + Support Vector Machines (time permitting)
 - Data spending: splitting and resampling methods
 - Model Evaluation
 - Model Selection
