@@ -63,7 +63,7 @@ Tentative calendar, Fall 2017 (weekly topics)
     + A bit of history
     + Simple OLS regression
     + Multiple OLS regression
-- __Reading__: ISL 10; APM 6.1-6.2
+- __Reading__: ISL 3; APM 6.1-6.2
 - __Lab 4:__ OLS regression
 
 -----
@@ -79,4 +79,29 @@ These biulding blocks will allow you to better understand the alternative approa
     + Multicollinearity
 - __Reading__: ISL 2 & 5; APM 4
 - __Lab 5__: More OLS stuff with R
+
+-----
+
+## Linear Regression: Dimension Reduction Methods
+
+- __Dates__: Oct 02-06
+- __Topics__: Pre-processing predictors via PCA prior to performing regression is known as Principal Component Regression (PCR). Partial Least Squares Regression (PLSR) also finds linear combinations of the predictors that maximally summarize tha variation of the predictors while simultaneously requiring these components to have maximum correlation with the response. 
+- __Slides__:
+    + Principal Components Regression (PCR)
+    + Partial Least Squares Regression (PLSR)
+- __Reading__: ISL 6.3; APM 6.3
+- __Lab 6__: PCR and PLSR
+
+-----
+
+## Linear Regression: Penalized Methods
+
+- __Dates__: Oct 09-13
+- __Topics__: One method of creating biased regression models is to add a penalty to the sum of squared residuals. This is done to control to magnitude of the parameters. By sacrificing some bias, we can often reduce the variance enough to make the overall MSE lower than unbiased models. 
+- __Slides__:
+    + Ridge Regression (RR)
+    + Least Absolute Shrinkage and Selection Operator (Lasso)
+    + Extensions of penalized models
+- __Reading__: ISL 6.2; APM 6.4
+- __Lab 7__: RR and Lasso
 
