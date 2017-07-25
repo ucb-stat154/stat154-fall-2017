@@ -23,9 +23,11 @@ __Statistics 154: Modern Statistical Prediction and Machine Learning__ at UC Ber
 
 ### Description
 
-In this course, students will explore the predictive modeling lifecycle, including question formulation, data preprocessing, exploratory data analysis and visualization, model building, model assessment/validation, model selection, and decision-making.​ 
+This is an introductory-level course in supervised learning, with a focus on regression and classification methods. The [syllabus](syllabus) includes: linear regression, model assessment, model selection, regularization methods (pcr, plsr, ridge and lasso); logistic regression and  discriminant analysis; cross-validation and the bootstrap; tree-based methods, random forests and boosting; support-vector machines. Some unsupervised learning methods are discussed: principal components and clustering (k-means and hierarchical).
 
-This class will focus on quantitative critical thinking​ and key principles and techniques needed to carry out this cycle. 1) Foundational principles for building predictive models; 2) Intuitive explanations of many commonly used predictive modeling techniques for both classification and regression problems; 3) Principles and steps for validating a predictive model; and 4) write and use computer code to perform the necessary foundational work to build and validate predictive models.
+In this course, we will explore the predictive modeling lifecycle, including question formulation, data preprocessing, exploratory data analysis and visualization, model building, model assessment/validation, model selection, and decision-making.​ 
+
+We will focus on quantitative critical thinking​ and key principles needed to carry out this cycle. 1) Foundational principles for building predictive models; 2) Intuitive explanations of many commonly used predictive modeling techniques for both classification and regression problems; 3) Principles and steps for validating a predictive model; and 4) write and use computer code to perform the necessary foundational work to build and validate predictive models.
 
 
 
@@ -45,6 +47,7 @@ topics (not necessarily in the displayed order):
     + Non-linear models
     + Tree-based methods
     + Support Vector Machines (time permitting)
+- Unsupervised methods like PCA and Clustering
 - Data spending: splitting and resampling methods
 - Model Evaluation
 - Model Selection
@@ -70,14 +73,14 @@ Last but not least, it is nice to know the basics of Rmd files, as well as some 
 
 The primary text is __An Introduction to Statistical Learning__ (ISL) by James, Witten, Hastie, and Tibshirani. Springer, 2013. It is freely available online in pdf format (courtesy of the authors) at [http://www-bcf.usc.edu/~gareth/ISL/](http://www-bcf.usc.edu/~gareth/ISL/).
 
-As companion material, especially for the labs, R code and projects, I will also be using __Applied Predictive Modeling__ by Max Kuhn and Kjell Johnson. Springer, 2013. You can find this book in electronic format via the UCB Library Catalog.
+As companion material, especially for the labs, R code and projects, I will also be using __Applied Predictive Modeling__ by Max Kuhn and Kjell Johnson. Springer, 2013.
 
 Other good (optional) references for the course are:
 
 - __The Elements of Statistical Learning__ by Hastie, Tibshirani and Friedman. Springer, 2009 (2nd Ed). This book is more mathematically-and-conceptually advanced than ISL. It is freely available online in pdf format (courtesy of the authors) at [https://statweb.stanford.edu/~tibs/ElemStatLearn/](https://statweb.stanford.edu/~tibs/ElemStatLearn/). This text will not be used directly for this course and is simply a reference for more theoretical details.
 
 - __Data Mining and Statistics for Decision Making__ by Stephane Tuffery. Wiley 2011.
-You can find this book in electronic format via the UCB Library Catalog. If the course slides are not self-explanatory enough, you can supplement them with this little known, yet excellent resource.
+This book should be in electronic format via the UCB Library Catalog. If the course slides are not self-explanatory enough, you can supplement them with this little known, yet excellent resource.
 
 - __Statistical Learning from a Regression Perspective__ by Richard Berk. Springer 2008.
 You can find this book in electronic format via the UCB Library Catalog. This text will not be used directly for this course and is simply a reference for more theoretical details.
