@@ -1,10 +1,10 @@
 ## Syllabus, Stat 154
 
-Tentative calendar, Fall 2017 (weekly topics)
-
-- Labs: For the covered topics in a given week, the associated lab takes place on Monday of the following week.
-- ISL = _An Introduction to Statistical Learning_ (by James et al, 2015)
-- APM = _Applied Predictive Modeling_ (by Kuhn and Johnson, 2013)
++ Notes:
+	- Tentative calendar (weekly topics), subject to the pace of the course.
+	- Labs: For the covered topics in a given week, the associated lab takes place on Monday of the following week.
+	- ISL = _An Introduction to Statistical Learning_ (by James et al, 2015)
+	- APM = _Applied Predictive Modeling_ (by Kuhn and Johnson, 2013)
 
 
 -----
@@ -14,20 +14,20 @@ Tentative calendar, Fall 2017 (weekly topics)
 - __Dates__: Aug 23-25
 - __Topics__: Introduction, policies/logistics, and course in a nutshell
 - __Slides__:
-    + Course in a nutshell
-    + Short tour
+    + About the course
+    + Introduction
 
 -----
 
 ## Matrix Algebra Housekeeping
 
 - __Dates__: Aug 28-Sep 01
-- __Topics__: Quick review of objects and functions in R to handle common (and not so common) matrix operations. Review of how to express basic statistical operations with vector-matrix notation, and discuss their geometric interpretations. Description of the data matrix, its rows-and-columns duality, and the various types of cross-products.
+- __Topics__: Quick review of objects and functions in R to handle common (and not so common) matrix operations. Review of how to express basic statistical operations with vector-matrix notation, and discuss their geometric interpretations. Description of the data matrix, its rows-and-columns duality, and various types of cross-products.
 - __Slides__:
-    + Matrix operations in R
+    + Matrices in R
     + Statistical operations with vector-matrix notation
     + The duality of the data matrix, and common cross-products X'X and XX'
-- __Lab 1__: Matrix stuff (on your own)
+- __Lab 1__: Warm-up with matrices in R (Sep-04 on your own)
 
 -----
 
@@ -38,7 +38,7 @@ Tentative calendar, Fall 2017 (weekly topics)
 - __Slides__:
     + Singular Valude Decomposition (SVD)
     + Eigenvalue Decomposition (EVD)
-- __Lab 2__: Matrix decompositions and the power algorithm
+- __Lab 2__: Matrix decompositions and the power algorithm (Sep-11)
 
 -----
 
@@ -51,7 +51,7 @@ Tentative calendar, Fall 2017 (weekly topics)
     + PCA from a geometric perspective
     + Applying PCA
 - __Reading__: ISL 10; APM 3
-- __Lab 3__: A bit of EDA and PCA
+- __Lab 3__: A bit of EDA and PCA (Sep-18)
 
 -----
 
@@ -64,7 +64,7 @@ Tentative calendar, Fall 2017 (weekly topics)
     + Simple OLS regression
     + Multiple OLS regression
 - __Reading__: ISL 3; APM 6.1-6.2
-- __Lab 4:__ OLS regression
+- __Lab 4:__ OLS regression (Sep-25)
 
 -----
 
@@ -78,7 +78,7 @@ These biulding blocks will allow you to better understand the alternative approa
     + Model Performance, Overfitting, and Training-Test
     + Multicollinearity
 - __Reading__: ISL 2 & 5; APM 4
-- __Lab 5__: More OLS stuff with R
+- __Lab 5__: More OLS stuff with R (Oct-02)
 
 -----
 
@@ -90,7 +90,7 @@ These biulding blocks will allow you to better understand the alternative approa
     + Principal Components Regression (PCR)
     + Partial Least Squares Regression (PLSR)
 - __Reading__: ISL 6.3; APM 6.3
-- __Lab 6__: PCR and PLSR
+- __Lab 6__: PCR and PLSR (Oct-09)
 
 -----
 
@@ -103,5 +103,5 @@ These biulding blocks will allow you to better understand the alternative approa
     + Least Absolute Shrinkage and Selection Operator (Lasso)
     + Extensions of penalized models
 - __Reading__: ISL 6.2; APM 6.4
-- __Lab 7__: RR and Lasso
+- __Lab 7__: RR and Lasso (Oct-16)
 
