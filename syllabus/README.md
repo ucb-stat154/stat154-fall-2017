@@ -1,7 +1,7 @@
 ## Syllabus, Stat 154
 
 + Notes:
-	- Tentative calendar (weekly topics), subject to the pace of the course.
+	- Tentative calendar (weekly topics), subject to changes depending on the pace of the course.
 	- Labs: For the covered topics in a given week, the associated lab takes place on Monday of the following week.
 	- ISL = _An Introduction to Statistical Learning_ (by James et al, 2015)
 	- APM = _Applied Predictive Modeling_ (by Kuhn and Johnson, 2013)
@@ -36,7 +36,7 @@
 - __Dates__: Sep 04-08
 - __Topics__: Review of matrix Decompositions with R, talking about the functions `svd()` and `eigen()`, the implications of the decompositions, data reduction, and visual displays.
 - __Slides__:
-    + Singular Valude Decomposition (SVD)
+    + Singular Value Decomposition (SVD)
     + Eigenvalue Decomposition (EVD)
 - __Lab 2__: Matrix decompositions and the power algorithm (Sep-11)
 
@@ -82,7 +82,7 @@ These biulding blocks will allow you to better understand the alternative approa
 
 -----
 
-## Linear Regression: Dimension Reduction Methods
+## Regression: Dimension Reduction Methods
 
 - __Dates__: Oct 02-06
 - __Topics__: Pre-processing predictors via PCA prior to performing regression is known as Principal Component Regression (PCR). Partial Least Squares Regression (PLSR) also finds linear combinations of the predictors that maximally summarize tha variation of the predictors while simultaneously requiring these components to have maximum correlation with the response. 
@@ -94,7 +94,7 @@ These biulding blocks will allow you to better understand the alternative approa
 
 -----
 
-## Linear Regression: Penalized Methods
+## Regression: Penalized Methods
 
 - __Dates__: Oct 09-13
 - __Topics__: One method of creating biased regression models is to add a penalty to the sum of squared residuals. This is done to control to magnitude of the parameters. By sacrificing some bias, we can often reduce the variance enough to make the overall MSE lower than unbiased models. 
