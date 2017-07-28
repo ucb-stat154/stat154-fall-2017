@@ -8,25 +8,33 @@
 - You will be encouraged to problem solve individually or in groups.
 - Weekly labs are a required part of the course and should be submitted during your lab session.
 - To receive credit, you must attend lab, work on the lab assignment until you're finished or the lab period is over, and get checked off by a course staff member. 
-- Labs will be released on Monday night. If you don't want to attend lab physically, you may complete a lab assignment remotely, but you must complete it by Tuesday at 11:59pm to receive credit. 
-- Note that if you attend lab, you can still get credit even if you don't finish all of the lab problems. However, if you choose to work remotely, you must finish the entire lab to receive credit. 
+- Labs will be released on Monday night.
+- Note that if you attend lab, you can still get credit even if you don't finish all of the lab problems.
 - Each person must submit each lab independently, but you are welcome to collaborate with other students in your lab room.
 - There will be about 4/5 short quizzes given in discussion to test your understanding.
 - Your quiz scores __will NOT__ be part of your grade.
 
 
 
-### Homework Assignments
+### Assignments (Problem Sets)
 
-- Homework assignments will be assigned almost every two weeks (about 5/6 HW).
+All assignments will involve writing a combination of code and actual prose. You must submit your assignment in a format which allows for the combination of the two, and the automatic execution of all your code. The easiest way to do this is to use R Markdown. 
+
+- Each assignment will be graded out of four points: 
+	- __completeness__: one point for making a good-faith effort at every part of the assignment.
+	- __correctness__: one point for technically-correct, working solutions to each part.
+	- __coding__: one point for clean, well-formatted, easily readable code.
+	- __description__: one point for clear descriptions, interpretations, explanations.
+- All assignments must be turned in electronically, through bCourses.
+- Assignments will be assigned almost every two weeks (about 5/6 HW).
 - You will submit your homework to your Github repository.
 - You should also submit the github's link of your assignment to bCourses.
 - Don't wait until the last hour to do an assignment. Plan ahead and pace yourself.
 - Don't wait until the last minute to push your commits.
 - __No late assignments__ will be accepted, for any reason, including, but not limited to, Internet congestion, system crashes, natural disasters, theft, medical emergencies, personal crisis, theft or any extraordinary circumnstances (e.g. illnes, exhaustion, mourning, loss of internet connection, bCourses is down, broken computer). Don't ask. I won't be sympathetic.
-- I will drop your lowest HW score.
-- If you collaborate with other students when working on a HW assignment, please include the names of those students in your submission.
-- You must write your own answers (using your own words). Copy and plagiarism will not be tolerated (see _Academic Honesty_ policy).
+- I will drop your lowest assignment score.
+- If you collaborate with other students when working on an assignment, please include the names of those students in your submission.
+- You must write your own answers (using your own words, and your own coding style). Copy and plagiarism will not be tolerated (see _Academic Honesty_ policy).
 
 
 
@@ -50,11 +58,10 @@
 
 ### Grading Structure
 
-- 10% labs
-- 30% homework
-- 10% midterm
-- 30% final project
-- 20% final 
+- Labs: 10%
+- Homework: 30%
+- Midterm test: 20%
+- Final project: 40%
 
 No individual letter grades will be given for midterm, or final. You will get a letter grade for the course that is based on your overall score. Your final grade will be graded on a 30/30/30/10 (A/B/C/DF) scale.
 
