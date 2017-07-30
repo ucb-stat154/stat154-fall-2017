@@ -73,7 +73,7 @@ Last but not least, it is nice to know the basics of Rmd files, as well as some 
 
 The primary text is __An Introduction to Statistical Learning__ (ISL) by James, Witten, Hastie, and Tibshirani. Springer, 2013. It is freely available online in pdf format (courtesy of the authors) at [http://www-bcf.usc.edu/~gareth/ISL/](http://www-bcf.usc.edu/~gareth/ISL/).
 
-As companion material, especially for the labs, R code and projects, I will also be using __Applied Predictive Modeling__ by Max Kuhn and Kjell Johnson. Springer, 2013.
+As companion material, especially for the labs, R code and projects, we will also be using __Applied Predictive Modeling__ by Max Kuhn and Kjell Johnson. Springer, 2013.
 
 Other good (optional) references for the course are:
 
