@@ -27,7 +27,7 @@
     + Matrices in R
     + Statistical operations with vector-matrix notation
     + The duality of the data matrix, and common cross-products X'X and XX'
-- __Lab 1__: Warm-up with matrices in R (Sep-04 on your own)
+- __Lab 1__: [Warm-up with matrices in R](../labs/lab01-matrix-practice.pdf) (Sep-04 on your own)
 
 -----
 
@@ -38,7 +38,7 @@
 - __Slides__:
     + Singular Value Decomposition (SVD)
     + Eigenvalue Decomposition (EVD)
-- __Lab 2__: Matrix decompositions and the power algorithm (Sep-11)
+- __Lab 2__: [Matrix decompositions and the power algorithm](../labs/lab02-matrix-decompositions.pdf) (Sep-11)
 
 -----
 
@@ -64,7 +64,7 @@
     + Simple OLS regression
     + Multiple OLS regression
 - __Reading__: ISL 3; APM 6.1-6.2
-- __Lab 4:__ OLS regression (Sep-25)
+- __Lab 4:__ [OLS regression](../labs/lab04-ols-regression.pdf) (Sep-25)
 
 -----
 
@@ -72,7 +72,7 @@
 
 - __Dates__: Sep 25-29
 - __Topics__: After OLS regression, we cover fundamental Statistical Learning concepts such as measures for model performance, overfitting, training and test datasets, and resampling methods.
-These biulding blocks will allow you to better understand the alternative approaches for linear regression. 
+These building blocks will allow you to better understand the alternative approaches for linear regression. 
 - __Slides__:
     + Inferential Aspects
     + Model Performance, Overfitting, and Training-Test
@@ -97,7 +97,7 @@ These biulding blocks will allow you to better understand the alternative approa
 ## Regression: Penalized Methods
 
 - __Dates__: Oct 09-13
-- __Topics__: One method of creating biased regression models is to add a penalty to the sum of squared residuals. This is done to control to magnitude of the parameters. By sacrificing some bias, we can often reduce the variance enough to make the overall MSE lower than unbiased models. 
+- __Topics__: One method of creating biased regression models is to add a penalty to the sum of squared residuals. This is done to control the magnitude of the parameters. By sacrificing some bias, we can often reduce the variance enough to make the overall MSE lower than unbiased models. 
 - __Slides__:
     + Ridge Regression (RR)
     + Least Absolute Shrinkage and Selection Operator (Lasso)
