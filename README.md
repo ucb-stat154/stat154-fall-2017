@@ -5,7 +5,7 @@ __Statistics 154: Modern Statistical Prediction and Machine Learning__ at UC Ber
 
 
 - __Instructor:__ Gaston Sanchez, gaston.stat[at]gmail.com
-- __Class Time:__ MWF 1-2pm in 3108 Etcheverry
+- __Class Time:__ MWF 1-2pm in [3108 Etcheverry](http://www.berkeley.edu/map?etcheverry)
 - __Session Dates:__ 08/23/17 - 12/08/17
 - __Code #:__ 20978
 - __Units:__ 4 (more info [here](http://classes.berkeley.edu/content/2017-fall-stat-154-001-lec-001))
