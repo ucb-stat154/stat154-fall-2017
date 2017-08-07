@@ -24,9 +24,9 @@
 - __Dates__: Aug 28-Sep 01
 - __Topics__: Quick review of objects and functions in R to handle common (and not so common) matrix operations. Review of how to express basic statistical operations with vector-matrix notation, and discuss their geometric interpretations. Description of the data matrix, its rows-and-columns duality, and various types of cross-products.
 - __Slides__:
-    + Matrices in R
-    + Statistical operations with vector-matrix notation
-    + The duality of the data matrix, and common cross-products X'X and XX'
+    + [Matrices in R](../slides/02-matrix-in-R.pdf)
+    + [Statistical operations with vector-matrix notation](../slides/03-matrix-stat-operations1.pdf)
+    + [The duality of the data matrix](../slides/04-matrix-stat-operations2.pdf), and common cross-products X'X and XX'
 - __Lab 1__: [Warm-up with matrices in R](../labs/lab01-matrix-practice.pdf) (Sep-04 on your own)
 
 -----
