@@ -11,13 +11,13 @@ __Statistics 154: Modern Statistical Prediction and Machine Learning__ at UC Ber
 - __Units:__ 4 (more info [here](http://classes.berkeley.edu/content/2017-fall-stat-154-001-lec-001))
 - __Office Hours:__ TBA in 309 Evans (or by appointment)
 - __Final:__ TBA
-- __GSIs:__ Office hours of the GSI will be posted on the bCourses page. 
+- __GSI:__ [Johnny Hong](http://jcyhong.github.io/) (OH posted on bCourses). 
 
 
 | Lab | Date         | Room         | GSI             |
 |-----|--------------|--------------|-----------------|
-| 101 | M 9am-11am   | 334 Evans    | TBD    |
-| 102 | M 11am-1pm   | 334 Evans    | TBD    |
+| 101 | M 9am-11am   | 334 Evans    | Johnny Hong     |
+| 102 | M 11am-1pm   | 334 Evans    | Johnny Hong     |
 
 
 
