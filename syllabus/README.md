@@ -36,8 +36,8 @@
 - __Dates__: Sep 04-08
 - __Topics__: Review of matrix Decompositions with R, talking about the functions `svd()` and `eigen()`, the implications of the decompositions, data reduction, and visual displays.
 - __Slides__:
-    + Singular Value Decomposition (SVD)
-    + Eigenvalue Decomposition (EVD)
+    + [Singular Value Decomposition (SVD)](../slides/05-matrix-svd.pdf)
+    + [Eigenvalue Decomposition (EVD)](../slides/06-matrix-eigen.pdf)
 - __Lab 2__: [Matrix decompositions and the power algorithm](../labs/lab02-matrix-decompositions.pdf) (Sep-11)
 
 -----
