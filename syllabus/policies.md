@@ -3,12 +3,10 @@
 
 ### Labs
 
-- Lab discussion is an important part of the class and is meant to supplement lecture.
+- Lab discussion is a required part of the class and is meant to supplement lecture.
 - You must attend the discussion group you are officially registered in.
 - You will be encouraged to problem solve individually or in groups.
-- Weekly labs are a required part of the course and should be submitted during your lab session.
 - To receive credit, you must attend lab, work on the lab assignment until you're finished or the lab period is over, and get checked off by a course staff member. 
-- Labs will be released on Monday night.
 - Note that if you attend lab, you can still get credit even if you don't finish all of the lab problems.
 - Each person must submit each lab independently, but you are welcome to collaborate with other students in your lab room.
 - There will be about 4/5 short quizzes given in discussion to test your understanding.
@@ -18,15 +16,14 @@
 
 ### Assignments (Problem Sets)
 
-All assignments will involve writing a combination of code and actual prose. You must submit your assignment in a format which allows for the combination of the two, and the automatic execution of all your code. The easiest way to do this is to use R Markdown. 
+All assignments will involve writing a combination of code, actual prose, and math notation. You must submit your assignment in a format which allows for the combination of the two, and the automatic execution of all your code. The easiest way to do this is to use R Markdown. 
 
 - Each assignment will be graded out of four points: 
 	- __completeness__: one point for making a good-faith effort at every part of the assignment.
 	- __correctness__: one point for technically-correct, working solutions to each part.
 	- __coding__: one point for clean, well-formatted, easily readable code.
 	- __description__: one point for clear descriptions, interpretations, explanations.
-- All assignments must be turned in electronically, through bCourses.
-- Assignments will be assigned almost every two weeks (about 5/6 HW).
+- Assignments will be assigned almost every two weeks (about 6/7 HW).
 - You will submit your homework to your Github repository.
 - You should also submit the github's link of your assignment to bCourses.
 - Don't wait until the last hour to do an assignment. Plan ahead and pace yourself.
@@ -40,10 +37,8 @@ All assignments will involve writing a combination of code and actual prose. You
 
 ### Exams
 
-- There will be one 50-minute in-class midterm, and one 3-hour final exam.
-- The tentative date of the midterm is TBD. 
-- The final exam is currently scheduled for Day, Dec ddth from time1 to time2. (classroom to be announced).
-- If you do not take the final, you will NOT pass the class.
+- There will be two 50-minute in-class midterms, and one final project.
+- The tentative date of the midterms are TBD.
 - There will be __no early or makeup exams__.
 - Do not take the class if you are not available at these dates and times.
 - We will use gradescope to grade the tests.
@@ -60,10 +55,11 @@ All assignments will involve writing a combination of code and actual prose. You
 
 - Labs: 10%
 - Homework: 30%
-- Midterm test: 20%
-- Final project: 40%
+- Midterm 1: 20%
+- Midterm 2: 20%
+- Final project: 20%
 
-No individual letter grades will be given for midterm, or final. You will get a letter grade for the course that is based on your overall score. Your final grade will be graded on a 30/30/30/10 (A/B/C/DF) scale.
+No individual letter grades will be given for midterm, or final. You will get a letter grade for the course that is based on your overall score.
 
 
 
