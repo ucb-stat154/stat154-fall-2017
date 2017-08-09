@@ -14,7 +14,7 @@
 - __Dates__: Aug 23-25
 - __Topics__: Introduction, policies/logistics, and course in a nutshell
 - __Slides__:
-    + About the course
+    + [About the course](../slides/00-course-info.pdf)
     + Introduction
 
 -----
@@ -60,8 +60,8 @@
 - __Dates__: Sep 18-22
 - __Topics__: Introduction to Regression Analysis and the classic Linear Model framework. We begin with a bit of history, and then present the Least Squares minimization problem for both simple and multiple regression without any stochastic assumptions, just plain algebra, calculus and geometry. We also talk about some computational aspects to compute least squares.
 - __Slides__:
-    + A bit of history
-    + Simple OLS regression
+    + [A bit of history](../slides/10-history-regression.pdf)
+    + [Simple OLS regression](../slides/11-ols-regression1.pdf)
     + Multiple OLS regression
 - __Reading__: ISL 3; APM 6.1-6.2
 - __Lab 4:__ [OLS regression](../labs/lab04-ols-regression.pdf) (Sep-25)
