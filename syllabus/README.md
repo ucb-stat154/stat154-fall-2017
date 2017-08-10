@@ -6,7 +6,6 @@
 	- ISL = _An Introduction to Statistical Learning_ (by James et al, 2015)
 	- APM = _Applied Predictive Modeling_ (by Kuhn and Johnson, 2013)
 
-
 -----
 
 ## Course Introduction
@@ -105,3 +104,40 @@ These building blocks will allow you to better understand the alternative approa
 - __Reading__: ISL 6.2; APM 6.4
 - __Lab 7__: RR and Lasso (Oct-16)
 
+-----
+
+## Regression Overview and transition to Classification
+
+- __Dates__: Oct 16-20
+- __Topics__: Overview of linear regression models with discussion of a set of continuum regression approaches. We will also transition into Classification methods with the introduction to Logistic Regression.
+- __Slides__:
+    + Continuum Regression
+    + Logistic Regression (RR)
+- __Reading__: ISL 4.1-4.3; APM 12.2
+- __Lab 8__: Logistic Regression (Oct-23)
+
+-----
+
+## Classification: Geometric Discriminant Analysis
+
+- __Dates__: Oct 23-27
+- __Topics__: The origins and foundations of Discriminant Analysis (DA) are based on Ronald Fisher's geometric approach. This can be considered as classification with an unsupervised touch.
+- __Slides__:
+    + Logistic Regression
+    + Preliminaries of Geometric Discriminant Analysis
+    + Geometric Discriminant Analysis
+- __Reading__: ISL 4.4; APM 12.3
+- __Lab 9__: RR and Lasso (Oct-30)
+
+-----
+
+## Classification: Probabilistic Discriminant Analysis
+
+- __Dates__: Oct 30-Nov 03
+- __Topics__: Presentation of the probabilistic framework for classiciation purposes with the so-called Bayes Classifier. We move on from geometric DA to Probabilistic DA, and also discuss the non-parametric method kNN.
+- __Slides__:
+    + Bayes Classifier
+    + Linear and Quadratic Discriminant Analysis
+    + K-Nearest Neighbors (kNN)
+- __Reading__: ISL 4.4; APM 13.5
+- __Lab 10__: RR and Lasso (Nov-06)
