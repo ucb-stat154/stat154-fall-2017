@@ -62,7 +62,7 @@
 - __Slides__:
     + [A bit of history](../slides/10-history-regression.pdf)
     + [Simple OLS regression](../slides/11-ols-regression1.pdf)
-    + Multiple OLS regression
+    + [Multiple OLS regression](../slides/12-ols-regression2.pdf)
 - __Reading__: ISL 3; APM 6.1-6.2
 - __Lab 4:__ [OLS regression](../labs/lab04-ols-regression.pdf) (Sep-25)
 
