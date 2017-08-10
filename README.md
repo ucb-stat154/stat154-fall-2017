@@ -4,7 +4,7 @@ This repository holds the course materials for the Fall 2017 edition of
 __Statistics 154: Modern Statistical Prediction and Machine Learning__ at UC Berkeley.
 
 
-- __Instructor:__ Gaston Sanchez, gaston.stat[at]gmail.com
+- __Instructor:__ [Gaston Sanchez](http://gastonsanchez.com),  gaston.stat [at] gmail.com
 - __Class Time:__ MWF 1-2pm in [3108 Etcheverry](http://www.berkeley.edu/map?etcheverry)
 - __Session Dates:__ 08/23/17 - 12/08/17
 - __Code #:__ 20978
