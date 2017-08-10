@@ -57,7 +57,7 @@
 ## Regression via Least Squares
 
 - __Dates__: Sep 18-22
-- __Topics__: Introduction to Regression Analysis and the classic Linear Model framework. We begin with a bit of history, and then present the Least Squares minimization problem for both simple and multiple regression without any stochastic assumptions, just plain algebra, calculus and geometry. We also talk about some computational aspects to compute least squares.
+- __Topics__: Introduction to Regression Analysis and the classic Linear Model framework. We begin with a bit of history, and then present the Least Squares minimization problem for both simple and multiple regression without any stochastic assumptions, just plain algebra, calculus and geometry. We also talk about some computational aspects about least squares.
 - __Slides__:
     + [A bit of history](../slides/10-history-regression.pdf)
     + [Simple OLS regression](../slides/11-ols-regression1.pdf)
@@ -112,7 +112,7 @@ These building blocks will allow you to better understand the alternative approa
 - __Topics__: Overview of linear regression models with discussion of a set of continuum regression approaches. We will also transition into Classification methods with the introduction to Logistic Regression.
 - __Slides__:
     + Continuum Regression
-    + Logistic Regression (RR)
+    + Logistic Regression (part I)
 - __Reading__: ISL 4.1-4.3; APM 12.2
 - __Lab 8__: Logistic Regression (Oct-23)
 
@@ -123,11 +123,11 @@ These building blocks will allow you to better understand the alternative approa
 - __Dates__: Oct 23-27
 - __Topics__: The origins and foundations of Discriminant Analysis (DA) are based on Ronald Fisher's geometric approach. This can be considered as classification with an unsupervised touch.
 - __Slides__:
-    + Logistic Regression
+    + Logistic Regression (part II)
     + Preliminaries of Geometric Discriminant Analysis
     + Geometric Discriminant Analysis
 - __Reading__: ISL 4.4; APM 12.3
-- __Lab 9__: RR and Lasso (Oct-30)
+- __Lab 9__: TBA (Oct-30)
 
 -----
 
@@ -140,4 +140,4 @@ These building blocks will allow you to better understand the alternative approa
     + Linear and Quadratic Discriminant Analysis
     + K-Nearest Neighbors (kNN)
 - __Reading__: ISL 4.4; APM 13.5
-- __Lab 10__: RR and Lasso (Nov-06)
+- __Lab 10__: TBA (Nov-06)
