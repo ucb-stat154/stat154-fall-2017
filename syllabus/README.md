@@ -73,9 +73,9 @@
 - __Topics__: After OLS regression, we cover fundamental Statistical Learning concepts such as measures for model performance, overfitting, training and test datasets, and resampling methods.
 These building blocks will allow you to better understand the alternative approaches for linear regression. 
 - __Slides__:
-    + Inferential Aspects
+    + Inferential Aspects in OLS Regression
     + Model Performance, Overfitting, and Training-Test
-    + Multicollinearity
+    + [Multicollinearity issues](../slides/15-multicollinearity-issues.pdf)
 - __Reading__: ISL 2 & 5; APM 4
 - __Lab 5__: More OLS stuff with R (Oct-02)
 
@@ -87,7 +87,8 @@ These building blocks will allow you to better understand the alternative approa
 - __Topics__: Pre-processing predictors via PCA prior to performing regression is known as Principal Component Regression (PCR). Partial Least Squares Regression (PLSR) also finds linear combinations of the predictors that maximally summarize tha variation of the predictors while simultaneously requiring these components to have maximum correlation with the response. 
 - __Slides__:
     + Principal Components Regression (PCR)
-    + Partial Least Squares Regression (PLSR)
+    + [Partial Least Squares Regression](../slides/17-pls-regression1.pdf) (PLSR) part 1
+    + Partial Least Squares Regression (PLSR) part 2
 - __Reading__: ISL 6.3; APM 6.3
 - __Lab 6__: PCR and PLSR (Oct-09)
 
