@@ -73,7 +73,7 @@
 - __Topics__: After OLS regression, we cover fundamental Statistical Learning concepts such as measures for model performance, overfitting, training and test datasets, and resampling methods.
 These building blocks will allow you to better understand the alternative approaches for linear regression. 
 - __Slides__:
-    + Inferential Aspects in OLS Regression
+    + [Inferential Aspects in OLS Regression](../slides/13-inference-regression.pdf)
     + Model Performance, Overfitting, and Training-Test
     + [Multicollinearity issues](../slides/15-multicollinearity-issues.pdf)
 - __Reading__: ISL 2 & 5; APM 4
