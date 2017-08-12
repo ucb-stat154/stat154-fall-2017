@@ -46,7 +46,7 @@
 - __Dates__: Sep 11-15
 - __Topics__: Principal Components Analysis. Unsepervised learning approach for studying the structure of a data set (of quantitative variables). How PCA is connected with the SVD and EVD decompositions, interpretation of the outputs, and usefulness for Exploratory Data Analysis.
 - __Slides__:
-    + PCA from a maximizing variance perspective 
+    + [Introduction to PCA](../slides/07-principal-components1.pdf)
     + PCA from a geometric perspective
     + Applying PCA
 - __Reading__: ISL 10; APM 3
