@@ -1,4 +1,4 @@
-# Wholesale customers Data Set 
+# Wholesale Customers Data Set 
 
 
 ## Source 
