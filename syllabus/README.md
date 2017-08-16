@@ -76,7 +76,8 @@ These building blocks will allow you to better understand the alternative approa
     + [Inferential Aspects in OLS Regression](../slides/13-inference-regression.pdf)
     + Model Performance, Overfitting, and Training-Test
     + [Multicollinearity issues](../slides/15-multicollinearity-issues.pdf)
-- __Reading__: ISL 2 & 5; APM 4
+- __Reading__: ISL 2 & 5; APM 4;
+    + [Saporta (2008) Models for understanding vs models for prediction](../papers/Saporta_2008_Models_for_Understanding_vs_Models_for_Prediction.pdf)
 - __Lab 5__: More OLS stuff with R (Oct-02)
 
 -----
