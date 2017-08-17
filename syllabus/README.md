@@ -44,7 +44,7 @@
 ## Principal Components Analysis (PCA)
 
 - __Dates__: Sep 11-15
-- __Topics__: Principal Components Analysis. Unsepervised learning approach for studying the structure of a data set (of quantitative variables). How PCA is connected with the SVD and EVD decompositions, interpretation of the outputs, and usefulness for Exploratory Data Analysis.
+- __Topics__: Principal Components Analysis is an unsupervised learning approach for studying the systematic structure of a data set (of quantitative variables). How PCA is connected with the SVD and EVD decompositions, interpretation of the outputs, and usefulness for Exploratory Data Analysis.
 - __Slides__:
     + [Introduction to PCA](../slides/07-principal-components1.pdf)
     + PCA from a geometric perspective
@@ -114,7 +114,7 @@ These building blocks will allow you to better understand the alternative approa
 - __Topics__: Overview of linear regression models with discussion of a set of continuum regression approaches. We will also transition into Classification methods with the introduction to Logistic Regression.
 - __Slides__:
     + Continuum Regression
-    + Logistic Regression (part I)
+    + [Logistic Regression (part I)](../slides/22-logistic-regression1.pdf)
 - __Reading__: ISL 4.1-4.3; APM 12.2
 - __Lab 8__: Logistic Regression (Oct-23)
 
