@@ -1,5 +1,19 @@
 ## Stat 154 Course Logistics and Policies
 
+- [Labs](#labs)
+- [Assignments](#assignments)
+- [Tests](#tests)
+- [Oral Evaluation](#oral-evaluation)
+- [Grading Structure](#grading-structure)
+- [Learning Cooperatively](#learning-cooperatively)
+- [Academic Honesty](#academic-honesty)
+- [Email Policy](#email-policy)
+- [Special Accommodations](#special-accommodations)
+- [Incomplete Grade](#incomplete-grade)
+- [Safe and Inclusive Environment](#safe-and-inclusive-environment)
+- [Letters of Recommendation](#letters-of-recommendation)
+- [Fine Print](#fine-print)
+
 
 ### Labs
 
@@ -9,14 +23,19 @@
 - To receive credit, you must attend lab, work on the lab assignment until you're finished or the lab period is over, and get checked off by a course staff member. 
 - Note that if you attend lab, you can still get credit even if you don't finish all of the lab problems.
 - Each person must submit each lab independently, but you are welcome to collaborate with other students in your lab room.
+- From Sep-11, if you miss
+    + one lab, you get full lab credit (10% of total grade).
+    + two labs,  you get half lab credit (5% of total grade).
+    + three labs, you get no lab credit (0% of total grade, cannot get an A in the course).
+    + four or more labs, you fail the class (F grade).
 - There will be about 4/5 short quizzes given in discussion to test your understanding.
 - Your quiz scores __will NOT__ be part of your grade.
 
 
 
-### Assignments (Problem Sets)
+### Assignments
 
-All assignments will involve writing a combination of code, actual prose, and math notation. You must submit your assignment in a format which allows for the combination of the two, and the automatic execution of all your code. The easiest way to do this is to use R Markdown. 
+All assignments (Problem Sets) will involve writing a combination of code, actual prose, and math notation. You must submit your assignment in a format which allows for the combination of the two, and the automatic execution of all your code. The easiest way to do this is to use R Markdown. 
 
 - Each assignment will be graded out of four points: 
 	- __completeness__: one point for making a good-faith effort at every part of the assignment.
@@ -35,7 +54,7 @@ All assignments will involve writing a combination of code, actual prose, and ma
 
 
 
-### Exams
+### Tests
 
 - There will be two 50-minute in-class midterms, and one final project.
 - The tentative date of the midterms are TBD.
@@ -51,6 +70,15 @@ All assignments will involve writing a combination of code, actual prose, and ma
 
 
 
+### Oral Evaluation
+
+- I reserve the right to have a meeting with you and evaluate your understanding of the material in person (oral examination, whiteboard coding, and live coding).
+- Testing in person can happen haphazardly (most of the time), but it can also occur based on special circumstances (e.g. grad students, unusual programming background, allegedly cheating/plagiarism, unusual low or high performance).
+- You can also request to be evaluated in person if you are not satisfied with one or more of your graded work. Oral evaluations may be comprehensive.
+- The purpose of this evaluation is for me to have a more direct way of assessing your entire work (e.g. knowledge, skills, thinking process, problem solving).
+
+
+
 ### Grading Structure
 
 - Labs: 10%
@@ -58,6 +86,7 @@ All assignments will involve writing a combination of code, actual prose, and ma
 - Midterm 1: 20%
 - Midterm 2: 20%
 - Final project: 20%
+- Oral Evaluation: ?
 
 No individual letter grades will be given for midterm, or final. You will get a letter grade for the course that is based on your overall score.
 
@@ -93,11 +122,20 @@ Rather than copying someone else's work, ask for help. You are not alone in this
 
 
 
-### Accommodation Policy
+### Special Accommodations
 
 Students needing accommodations for any physical, psychological, or learning disability, should speak with me during the first two weeks of the semester, either after class or during office hours and see [http://dsp.berkeley.edu](http://dsp.berkeley.edu) to learn about Berkeley’s policy. If you are a DSP student, please contact me at least three weeks prior to a midterm or final so that we can work out acceptable accommodations via the DSP Office.
 
 If you are an athlete or Cal band member, please check your calendar and come see me as soon as possible to OH during the first two weeks of the semester. Do not take the class if you are not available to take the midterm, final, and/or attend lab discussions. I won't be able to provide accommodation for a late exam (No coaching staff proctoring).
+
+
+
+### Incomplete Policy
+
+Under emergency/special circumstances, students may petition me to receive an Incomplete grade. By University policy, for a student to get an Incomplete requires (i) that the student was performing __passing-level work__ until the time that (ii) something happened that---through no fault of the student---prevented the student from completing the coursework. If you take the final, you completed the course, even if you took it while ill, exhausted, mourning, etc. The time to talk to me about incomplete grades is BEFORE you take the final, when the situation that prevents you from finishing presents itself. Please clearly state your reasoning in your comments to me.
+
+It is your responsibility to develop good time management skills, good studying habits, know your limits, and learn to ask for professional help.
+Life happens. Social, family, cultural, scholar, and individual circumstances can affect your performance (both positive and negatively). If you find yourself in a situation that raises concerns about passing the course, please come see me as soon as possible. Above all, please do not wait till the end of the semester to share your concerns about passing the course because it will be too late by then.
 
 
 
@@ -123,15 +161,6 @@ the basis of categories including race, color, national origin, age, sex, gender
 gender identity, and sexual orientation. Questions or concerns? 
 Call (510) 643-7985, email ask_ophd@berkeley.edu, or go to 
 [http://survivorsupport.berkeley.edu/](http://survivorsupport.berkeley.edu/).
-
-
-
-### Incomplete Policy
-
-Under emergency/special circumstances, students may petition me to receive an Incomplete grade. By University policy, for a student to get an Incomplete requires (i) that the student was performing __passing-level work__ until the time that (ii) something happened that---through no fault of the student---prevented the student from completing the coursework. If you take the final, you completed the course, even if you took it while ill, exhausted, mourning, etc. The time to talk to me about incomplete grades is BEFORE you take the final, when the situation that prevents you from finishing presents itself. Please clearly state your reasoning in your comments to me.
-
-It is your responsibility to develop good time management skills, good studying habits, know your limits, and learn to ask for professional help.
-Life happens. Social, family, cultural, scholar, and individual circumstances can affect your performance (both positive and negatively). If you find yourself in a situation that raises concerns about passing the course, please come see me as soon as possible. Above all, please do not wait till the end of the semester to share your concerns about passing the course because it will be too late by then.
 
 
 
