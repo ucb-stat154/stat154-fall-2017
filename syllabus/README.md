@@ -125,9 +125,9 @@ These building blocks will allow you to better understand the alternative approa
 - __Dates__: Oct 23-27
 - __Topics__: The origins and foundations of Discriminant Analysis (DA) are based on Ronald Fisher's geometric approach. This can be considered as classification with an unsupervised touch.
 - __Slides__:
-    + Logistic Regression (part II)
-    + Preliminaries of Geometric Discriminant Analysis
-    + Geometric Discriminant Analysis
+    + [Logistic Regression (part II)](../slides/23-logistic-regression2.pdf)
+    + [Preamble to Discriminant Analysis](../slides/24-discriminant-preamble.pdf)
+    + [Geometric Discriminant Analysis](../slides/25-geometric-discriminant-analysis.pdf)
 - __Reading__: ISL 4.4; APM 12.3
 - __Lab 9__: TBA (Oct-30)
 
