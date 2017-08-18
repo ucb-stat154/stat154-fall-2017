@@ -47,8 +47,8 @@
 - __Topics__: Principal Components Analysis is an unsupervised learning approach for studying the systematic structure of a data set (of quantitative variables). How PCA is connected with the SVD and EVD decompositions, interpretation of the outputs, and usefulness for Exploratory Data Analysis.
 - __Slides__:
     + [Introduction to PCA](../slides/07-principal-components1.pdf)
-    + PCA from a geometric perspective
-    + Applying PCA
+    + [Painstaking PCA](../slides/08-principal-components2.pdf)
+    + More about PCA (properties and derived results)
 - __Reading__: ISL 10; APM 3
 - __Lab 3__: [PCA in R](../labs/lab03-principal-components.pdf) (Sep-18)
 
