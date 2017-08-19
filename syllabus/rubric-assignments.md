@@ -22,34 +22,34 @@ Each assignment will be graded out of four points:
   <tbody>
     <tr>
       <td>Completeness </td>
-      <td>Correctness</td>
-      <td>Coding</td>
-      <td>Description</td>
+      <td>All problems are tackled</td>
+      <td>One or more problems are not solved,<br>
+      	choice of analysis is overly simplistic</td>
+     <td>Half (or more) of the problems are not solved</td>  
     </tr>
     <tr>
-      <td>All problems are tackled</td>
+      <td>Correctness</td>
       <td>Computations and results are correct and properly identified</td>
+      <td>Analysis appropriate but incomplete,<br>
+      	assumptions not made explicit</td>
+      <td>Computations contain errors<br>
+      	and results are incorrect</td> 
+    </tr>
+    <tr>
+      <td>Coding</td>
       <td>Code is easy to read, well documented, commented</td>
+      <td>Code generates warnings,<br>
+      	contains extraneous/unnecessary computations</td>
+      <td>Code contains bugs, irrelevant, <br>
+      	or missing key component</td>
+    </tr>
+    <tr>
+      <td>Description</td>
       <td>Explanation is correct, convincing, <br>
       	conclusions explicitly connected to <br>
       	analysis and context</td>
-    </tr>
-    <tr>
-      <td>One or more problems are not solved,<br>
-      	choice of analysis is overly simplistic</td>
-      <td>Analysis appropriate but incomplete,<br>
-      	assumptions not made explicit</td>
-      <td>Code generates warnings,<br>
-      	contains extraneous/unnecessary computations</td>
       <td>Explanation is partially <br>
       	correct but incomplete</td>
-    </tr>
-    <tr>
-      <td>Half (or more) of the problems are not solved</td>
-      <td>Computations contain errors<br>
-      	and results are incorrect</td>
-      <td>Code contains bugs, irrelevant, <br>
-      	or missing key component</td>
       <td>Explanation is illogical, incorrect <br>
       	or incoherent</td>
     </tr>
