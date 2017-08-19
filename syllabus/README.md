@@ -14,7 +14,7 @@
 - __Topics__: Introduction, policies/logistics, and course in a nutshell
 - __Slides__:
     + [About the course](../slides/00-course-info.pdf)
-    + Introduction
+    + [Introduction](../slides/01-introduction.pdf)
 
 -----
 
