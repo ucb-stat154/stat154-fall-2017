@@ -15,7 +15,6 @@
 - __Slides__:
     + [About the course](../slides/00-course-info.pdf)
     + [Introduction](../slides/01-introduction.pdf)
-- __Lab 0__: [Minimal Bash and Git](../labs/lab00-minimal-bash-git.md) (Aug-28)
 
 -----
 
@@ -27,7 +26,7 @@
     + [Matrices in R](../slides/02-matrix-in-R.pdf)
     + [Statistical operations with vector-matrix notation](../slides/03-matrix-stat-operations1.pdf)
     + [The duality of the data matrix](../slides/04-matrix-stat-operations2.pdf), and common cross-products X'X and XX'
-- __Lab 1__: [Warm-up with matrices in R](../labs/lab01-matrix-practice.pdf) (Sep-04 on your own)
+- __Lab 1__: [Warm-up with matrices in R](../labs/lab01-matrix-practice.pdf) (Aug-28)
 
 -----
 
