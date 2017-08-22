@@ -15,7 +15,7 @@
 - __Slides__:
     + [About the course](../slides/00-course-info.pdf)
     + [Introduction](../slides/01-introduction.pdf)
-- __Lab 0__: [Minimal Bash and Git](../labs/lab00-minimal-bash-git.pdf) (Aug-28)
+- __Lab 0__: [Minimal Bash and Git](../labs/lab00-minimal-bash-git.md) (Aug-28)
 
 -----
 
