@@ -43,10 +43,8 @@ All assignments (Problem Sets) will involve writing a combination of code, actua
 	- __coding__: one point for clean, well-formatted, easily readable code.
 	- __description__: one point for clear descriptions, interpretations, explanations.
 - Assignments will be assigned almost every two weeks (about 6/7 HW).
-- You will submit your homework to your Github repository.
-- You should also submit the github's link of your assignment to bCourses.
+- You will submit your homework to bCourses.
 - Don't wait until the last hour to do an assignment. Plan ahead and pace yourself.
-- Don't wait until the last minute to push your commits.
 - __No late assignments__ will be accepted, for any reason, including, but not limited to, Internet congestion, system crashes, natural disasters, theft, medical emergencies, personal crisis, theft or any extraordinary circumnstances (e.g. illnes, exhaustion, mourning, loss of internet connection, bCourses is down, broken computer). Don't ask. I won't be sympathetic.
 - I will drop your lowest assignment score.
 - If you collaborate with other students when working on an assignment, please include the names of those students in your submission.
