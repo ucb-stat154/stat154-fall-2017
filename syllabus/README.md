@@ -143,3 +143,42 @@ These building blocks will allow you to better understand the alternative approa
     + K-Nearest Neighbors (kNN)
 - __Reading__: ISL 4.4; APM 13.5
 - __Lab 10__: TBA (Nov-06)
+
+-----
+
+## Classification: Statistical Learning Concepts
+
+- __Dates__: Nov 06-10
+- __Topics__: Summary of classifications methods, and introduction to decision trees.
+- __Slides__:
+    + Discrimination Synthesis
+    + Classification Performance Measures
+    + Introduction to Decision Trees
+- __Reading__: APM 11
+- __Lab 11__: TBA (Nov-13)
+
+-----
+
+## Tree-based Methods
+
+- __Dates__: Nov 13-17
+- __Topics__: Tree-based methods.
+- __Slides__:
+    + More about decision trees
+    + Random Forests
+    + Boosting, Bagging
+- __Reading__: ISL 8; APM 8
+- __Lab 12__: TBA (Nov-20)
+
+-----
+
+## Clustering
+
+- __Dates__: Nov 27-Dec 01
+- __Topics__: Clustering.
+- __Slides__:
+    + Hierarchical Clustering (part 1)
+    + Hierarchical Clustering (part 2)
+    + K-means clustering
+- __Reading__: ISL 10
+- __Lab 12__: TBA (Nov-27)
