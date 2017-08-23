@@ -9,7 +9,7 @@ __Statistics 154: Modern Statistical Prediction and Machine Learning__ at UC Ber
 - __Session Dates:__ 08/23/17 - 12/08/17
 - __Code #:__ 20978
 - __Units:__ 4 (more info [here](http://classes.berkeley.edu/content/2017-fall-stat-154-001-lec-001))
-- __Office Hours:__ TBA in 309 Evans (or by appointment)
+- __Office Hours:__ MW 2:10-3:00pm in 309 Evans (or by appointment)
 - __Final:__ TBA
 - __GSI:__ [Johnny Hong](http://jcyhong.github.io/) (OH posted on bCourses). 
 
