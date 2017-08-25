@@ -15,6 +15,8 @@
 - __Slides__:
     + [About the course](../slides/00-course-info.pdf)
     + [Introduction](../slides/01-introduction.pdf)
+- __Reading__:
+    + [Statistical Modeling: The Two Cultures](../papers/Breiman_2001_Statistical_Modeling_Two_Cultures.pdf) by Leo Breiman (2001)
 
 -----
 
@@ -77,7 +79,7 @@ These building blocks will allow you to better understand the alternative approa
     + Model Performance, Overfitting, and Training-Test
     + [Multicollinearity issues](../slides/15-multicollinearity-issues.pdf)
 - __Reading__: ISL 2 & 5; APM 4;
-    + [Saporta (2008) Models for understanding vs models for prediction](../papers/Saporta_2008_Models_for_Understanding_vs_Models_for_Prediction.pdf)
+    + [Models for understanding vs models for prediction](../papers/Saporta_2008_Models_for_Understanding_vs_Models_for_Prediction.pdf) by Gilbert Saporta (2008)
 - __Lab 5__: More OLS stuff with R (Oct-02)
 
 -----
