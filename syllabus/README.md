@@ -15,7 +15,7 @@
 - __Slides__:
     + [About the course](../slides/00-course-info.pdf)
     + [Introduction](../slides/01-introduction.pdf)
-- __Reading__:
+- __Reading__: ISL 1 & 2; APM 1
     + [Statistical Modeling: The Two Cultures](../papers/Breiman_2001_Statistical_Modeling_Two_Cultures.pdf) by Leo Breiman (2001)
 
 -----
