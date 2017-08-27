@@ -76,7 +76,7 @@
 These building blocks will allow you to better understand the alternative approaches for linear regression. 
 - __Slides__:
     + [Inferential Aspects in OLS Regression](../slides/13-inference-regression.pdf)
-    + Model Performance, Overfitting, and Training-Test
+    + [Model Performance, Overfitting, and Training-Test sets](../slides/14-esl-regression-ideas.pdf)
     + [Multicollinearity issues](../slides/15-multicollinearity-issues.pdf)
 - __Reading__: ISL 2 & 5; APM 4;
     + [Models for understanding vs models for prediction](../papers/Saporta_2008_Models_for_Understanding_vs_Models_for_Prediction.pdf) by Gilbert Saporta (2008)
