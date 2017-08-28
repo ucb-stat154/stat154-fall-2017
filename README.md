@@ -16,8 +16,8 @@ __Statistics 154: Modern Statistical Prediction and Machine Learning__ at UC Ber
 
 | Lab | Date         | Room         | GSI             |
 |-----|--------------|--------------|-----------------|
-| 101 | M 9am-11am   | 334 Evans    | Johnny Hong     |
-| 102 | M 11am-1pm   | 334 Evans    | Johnny Hong     |
+| 101 | M 9am-11am   | 330 Evans    | Johnny Hong     |
+| 102 | M 11am-1pm   | 330 Evans    | Johnny Hong     |
 
 
 
