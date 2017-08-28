@@ -34,7 +34,7 @@
 
 ## Matrix Decompositions in R
 
-- __Dates__: Sep 04-08
+- __Dates__: Sep 04-08 (_Holiday Sep-04_)
 - __Topics__: Review of matrix Decompositions with R, talking about the functions `svd()` and `eigen()`, the implications of the decompositions, data reduction, and visual displays.
 - __Slides__:
     + [Singular Value Decomposition (SVD)](../slides/05-matrix-svd.pdf)
@@ -80,7 +80,7 @@ These building blocks will allow you to better understand the alternative approa
     + [Multicollinearity issues](../slides/15-multicollinearity-issues.pdf)
 - __Reading__: ISL 2 & 5; APM 4;
     + [Models for understanding vs models for prediction](../papers/Saporta_2008_Models_for_Understanding_vs_Models_for_Prediction.pdf) by Gilbert Saporta (2008)
-- __Lab 5__: More OLS stuff with R (Oct-02)
+- __Lab 5__: More OLS and resampling with R (Oct-02)
 
 -----
 
