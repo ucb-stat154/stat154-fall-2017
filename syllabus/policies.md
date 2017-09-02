@@ -49,20 +49,20 @@ All assignments (Problem Sets) will involve writing a combination of code, actua
 
 ### Assignments Grading
 
-- The primary way that the homework will be graded is by yourselves. 
-- You need to turn in both your code and written solutions in the form of an `.Rmd` file and the corresponding knitted file (.`html` or `.pdf` format)
-- Any homework submissions that are turned in without both the `.Rmd` file and the knitted file, will receive a zero. 
+- The primary way that the homework will be graded is by yourselves.
+- You need to turn in both your code and written solutions in the form of an `.Rmd` file and the corresponding knitted file (.`html` or `.pdf` format).
+- Any homework submissions that are turned in without both the `.Rmd` file and the knitted file, will receive a zero.
 - __No late submission:__ Submissions after 11:59 PM of the HW deadline will not be accepted.
 - If you have any questions about the format of a homework submission, please go to office hours.
-- After the HW deadline, official solutions will be posted on bCourses. You will then be expected to read them and enter your own scores and comments for every part of every problem in the homework on a simple coarse scale:
-    + 0 = Didn't attempt or very very wrong,
-    + 2 = Got started and made some progress, but went off in the wrong direction or with no clear direction,
-    + 5 = Right direction and got half-way there,
-    + 8 = Mostly right but a minor thing missing or wrong,
-    + 10 = 100% correct.
+- After the HW deadline, official solutions will be posted on bCourses. You will then be expected to read them and enter your own scores and comments for (every part) of every problem in the homework on a simple coarse scale:
+    + __0__ = Didn't attempt or very very wrong,
+    + __2__ = Got started and made some progress, but went off in the wrong direction or with no clear direction,
+    + __5__ = Right direction and got half-way there,
+    + __8__ = Mostly right but a minor thing missing or wrong,
+    + __10__ = 100% correct.
 
-- Note: You must justify every self-grade score with a comment. If you are really confused about how to grade a particular problem, you should post on Piazza. This is not supposed to be a stressful process.
-- Your self-grades will be due three days after the homework deadline at 11:59 PM sharp. 
+- Note: You must justify every self-grade score with a comment. If you are really confused about how to grade a particular problem, you should post on [Piazza](https://piazza.com/class/j6nzkfrb2p724n). This is not supposed to be a stressful process.
+- Your self-grades will be due three days after the homework deadline at 11:59 PM sharp.
 - We will accept late self-grades up to a week after the original homework deadline for half credit on the associated homework assignment.
 - If you don't enter a proper grade by this deadline, you are giving yourself a zero on that assignment.
 - Merely doing the homework is not enough, you must do the homework; turn it in on time; read the solutions; do the self-grade; and turn it in on time. Unless all of these steps are done, you will get a zero for that assignment.
