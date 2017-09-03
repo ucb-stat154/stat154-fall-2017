@@ -53,6 +53,7 @@
     + [More about PCA](../slides/09-principal-components3.pdf) (properties and derived results)
 - __Reading__: ISL 10; APM 3
 - __Lab 3__: [PCA in R](../labs/lab03-principal-components.pdf) (Sep-18)
+- __Assignment 1:__ [Problem Set 1](../problems/problems1.pdf) (due: Sep-12 before midnight)
 
 -----
 
@@ -66,6 +67,7 @@
     + [Multiple OLS regression](../slides/12-ols-regression2.pdf)
 - __Reading__: ISL 3; APM 6.1-6.2
 - __Lab 4:__ [OLS regression](../labs/lab04-ols-regression.pdf) (Sep-25)
+- __Assignment 2:__ Problem Set 2 TBA (due: Sep-20 before midnight)
 
 -----
 
