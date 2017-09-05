@@ -91,7 +91,7 @@ These building blocks will allow you to better understand the alternative approa
 - __Dates__: Oct 02-06
 - __Topics__: Pre-processing predictors via PCA prior to performing regression is known as Principal Component Regression (PCR). Partial Least Squares Regression (PLSR) also finds linear combinations of the predictors that maximally summarize tha variation of the predictors while simultaneously requiring these components to have maximum correlation with the response. 
 - __Slides__:
-    + Principal Components Regression (PCR)
+    + [Principal Components Regression](../slides/16-pc-regression.pdf) (PCR)
     + [Partial Least Squares Regression](../slides/17-pls-regression1.pdf) (PLSR) part 1
     + Partial Least Squares Regression (PLSR) part 2
 - __Reading__: ISL 6.3; APM 6.3
