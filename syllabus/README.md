@@ -52,7 +52,7 @@
     + [Painstaking PCA](../slides/08-principal-components2.pdf)
     + [More about PCA](../slides/09-principal-components3.pdf) (properties and derived results)
 - __Reading__: ISL 10; APM 3
-    + [PCA](../papers/Abdi_2010_Principal_Component_Analysis.pdf) paper by Herve Abdi (2010)
+    + [PCA](../papers/Abdi_2010_Principal_Component_Analysis.pdf) paper by Herve Abdi and Lynne Williams (2010)
 - __Lab 3__: [PCA in R](../labs/lab03-principal-components.pdf) (Sep-18)
 - __Assignment 1:__ [Problem Set 1](../problems/problems1.pdf) (due: Sep-12 before midnight)
 
