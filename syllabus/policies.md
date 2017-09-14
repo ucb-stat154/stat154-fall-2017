@@ -2,6 +2,7 @@
 
 - [Labs](#labs)
 - [Assignments](#assignments)
+- [Assignments Grading](#assignments-grading)
 - [Tests](#tests)
 - [Oral Evaluation](#oral-evaluation)
 - [Grading Structure](#grading-structure)
