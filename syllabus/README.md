@@ -94,7 +94,7 @@ These building blocks will allow you to better understand the alternative approa
 - __Slides__:
     + [Principal Components Regression](../slides/16-pc-regression.pdf) (PCR)
     + [Partial Least Squares Regression](../slides/17-pls-regression1.pdf) (PLSR) part 1
-    + Partial Least Squares Regression (PLSR) part 2
+    + [Partial Least Squares Regression](../slides/18-pls-regression2.pdf) (PLSR) part 2
 - __Reading__: ISL 6.3; APM 6.3
 - __Lab 6__: PCR and PLSR (Oct-09)
 
@@ -122,6 +122,7 @@ These building blocks will allow you to better understand the alternative approa
     + [Logistic Regression (part I)](../slides/22-logistic-regression1.pdf)
 - __Reading__: ISL 4.1-4.3; APM 12.2
 - __Lab 8__: Logistic Regression (Oct-23)
+- __MIDTERM 1__: Friday Oct-20
 
 -----
 
