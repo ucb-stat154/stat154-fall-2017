@@ -97,6 +97,7 @@ These building blocks will allow you to better understand the alternative approa
     + [Partial Least Squares Regression](../slides/18-pls-regression2.pdf) (PLSR) part 2
 - __Reading__: ISL 6.3; APM 6.3
 - __Lab 6__: PCR and PLSR (Oct-09)
+- __Assignment 3:__ [Problem Set 3](../problems/problems3.pdf) (due: Oct-05 before midnight)
 
 -----
 
