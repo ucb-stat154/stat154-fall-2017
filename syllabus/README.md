@@ -123,6 +123,7 @@ These building blocks will allow you to better understand the alternative approa
     + [Logistic Regression (part I)](../slides/22-logistic-regression1.pdf)
 - __Reading__: ISL 4.1-4.3; APM 12.2
 - __Lab 8__: Logistic Regression (Oct-23)
+- __Assignment 4:__ Problem Set 4 (due: Oct-20 before midnight)
 - __MIDTERM 1__: Friday Oct-20
 
 -----
@@ -150,6 +151,7 @@ These building blocks will allow you to better understand the alternative approa
     + K-Nearest Neighbors (kNN)
 - __Reading__: ISL 4.4; APM 13.5
 - __Lab 10__: TBA (Nov-06)
+- __Assignment 5:__ Problem Set 5 (due: Nov-06 before midnight)
 
 -----
 
