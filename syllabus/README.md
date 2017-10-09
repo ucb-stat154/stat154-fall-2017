@@ -106,7 +106,7 @@ These building blocks will allow you to better understand the alternative approa
 - __Topics__: One method of creating biased regression models is to add a penalty to the sum of squared residuals. This is done to control the magnitude of the parameters. By sacrificing some bias, we can often reduce the variance enough to make the overall MSE lower than unbiased models. 
 - __Slides__:
     + [Partial Least Squares Regression](../slides/18-pls-regression2.pdf) (PLSR) part 2
-    + [Regularization](../19-regularization.pdf) (slides by Hastie and Tibshirani)
+    + [Regularization](../slides/19-regularization.pdf) (slides by Hastie and Tibshirani)
         + Ridge Regression (RR)
         + Least Absolute Shrinkage and Selection Operator (Lasso)
     + Extensions of penalized models
