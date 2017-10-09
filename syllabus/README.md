@@ -94,7 +94,6 @@ These building blocks will allow you to better understand the alternative approa
 - __Slides__:
     + [Principal Components Regression](../slides/16-pc-regression.pdf) (PCR)
     + [Partial Least Squares Regression](../slides/17-pls-regression1.pdf) (PLSR) part 1
-    + [Partial Least Squares Regression](../slides/18-pls-regression2.pdf) (PLSR) part 2
 - __Reading__: ISL 6.3; APM 6.3
 - __Lab 6__: PCR and PLSR (Oct-09)
 - __Assignment 3:__ [Problem Set 3](../problems/problems3.pdf) (due: Oct-05 before midnight)
@@ -106,8 +105,10 @@ These building blocks will allow you to better understand the alternative approa
 - __Dates__: Oct 09-13
 - __Topics__: One method of creating biased regression models is to add a penalty to the sum of squared residuals. This is done to control the magnitude of the parameters. By sacrificing some bias, we can often reduce the variance enough to make the overall MSE lower than unbiased models. 
 - __Slides__:
-    + Ridge Regression (RR)
-    + Least Absolute Shrinkage and Selection Operator (Lasso)
+    + [Partial Least Squares Regression](../slides/18-pls-regression2.pdf) (PLSR) part 2
+    + [Regularization](../19-regularization.pdf) (slides by Hastie and Tibshirani)
+        + Ridge Regression (RR)
+        + Least Absolute Shrinkage and Selection Operator (Lasso)
     + Extensions of penalized models
 - __Reading__: ISL 6.2; APM 6.4
 - __Lab 7__: RR and Lasso (Oct-16)
@@ -123,7 +124,7 @@ These building blocks will allow you to better understand the alternative approa
     + [Logistic Regression (part I)](../slides/22-logistic-regression1.pdf)
 - __Reading__: ISL 4.1-4.3; APM 12.2
 - __Lab 8__: Logistic Regression (Oct-23)
-- __Assignment 4:__ Problem Set 4 (due: Oct-20 before midnight)
+- __Assignment 4:__ [Problem Set 4](../problems/problems4.pdf) (due: Oct-20 before midnight)
 - __MIDTERM 1__: Friday Oct-20
 
 -----
