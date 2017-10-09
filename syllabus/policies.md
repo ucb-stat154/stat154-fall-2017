@@ -21,8 +21,11 @@
 - Lab discussion is a required part of the class and is meant to supplement lecture.
 - You must attend the discussion group you are officially registered in.
 - You will be encouraged to problem solve individually or in groups.
-- To receive credit, you must attend lab, work on the lab assignment until you're finished or the lab period is over, and get checked off by a course staff member. 
-- Note that if you attend lab, you can still get credit even if you don't finish all of the lab problems.
+- <s>To receive credit, you must attend lab, work on the lab assignment until you're finished or the lab period is over, and get checked off by a course staff member. 
+- Note that if you attend lab, you can still get credit even if you don't finish all of the lab problems.</s>
+- _To receive full credit, you must attend the lab, complete the lab assignment, and submit the lab assignment on bcourses._
+- _Failure to attend the lab without prior arrangement results in a score of zero for the lab assignment._
+- _If you didn't finish the assignment during the lab session, you can still get full credit by submitting a completed assignment on bcourses before Friday 11:59pm of the same week as the lab session._
 - Each person must submit each lab independently, but you are welcome to collaborate with other students in your lab room.
 - From Sep-11, if you miss
     + one lab, you get full lab credit (10% of total grade).
