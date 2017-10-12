@@ -83,7 +83,7 @@ These building blocks will allow you to better understand the alternative approa
     + [Multicollinearity issues](../slides/15-multicollinearity-issues.pdf)
 - __Reading__: ISL 2 & 5; APM 4;
     + [Models for understanding vs models for prediction](../papers/Saporta_2008_Models_for_Understanding_vs_Models_for_Prediction.pdf) by Gilbert Saporta (2008)
-- __Lab 5__: More OLS and resampling with R (Oct-02)
+- __Lab 5__: [More OLS and resampling with R](../labs/lab05-inference-regression) (Oct-02)
 
 -----
 
@@ -93,9 +93,10 @@ These building blocks will allow you to better understand the alternative approa
 - __Topics__: Pre-processing predictors via PCA prior to performing regression is known as Principal Component Regression (PCR). Partial Least Squares Regression (PLSR) also finds linear combinations of the predictors that maximally summarize tha variation of the predictors while simultaneously requiring these components to have maximum correlation with the response. 
 - __Slides__:
     + [Principal Components Regression](../slides/16-pc-regression.pdf) (PCR)
-    + [Partial Least Squares Regression](../slides/17-pls-regression1.pdf) (PLSR) part 1
+    + [Partial Least Squares Regression 1](../slides/17-pls-regression1.pdf) (PLSR) part 1
+    + [Partial Least Squares Regression 2](../slides/18-pls-regression2.pdf) (PLSR) part 2
 - __Reading__: ISL 6.3; APM 6.3
-- __Lab 6__: PCR and PLSR (Oct-09)
+- __Lab 6__: [PCR and PLSR](../labs/lab06-pcr-pls-regression.pdf) (Oct-09)
 - __Assignment 3:__ [Problem Set 3](../problems/problems3.pdf) (due: Oct-05 before midnight)
 
 -----
@@ -105,13 +106,12 @@ These building blocks will allow you to better understand the alternative approa
 - __Dates__: Oct 09-13
 - __Topics__: One method of creating biased regression models is to add a penalty to the sum of squared residuals. This is done to control the magnitude of the parameters. By sacrificing some bias, we can often reduce the variance enough to make the overall MSE lower than unbiased models. 
 - __Slides__:
-    + [Partial Least Squares Regression](../slides/18-pls-regression2.pdf) (PLSR) part 2
-    + [Regularization](../slides/19-regularization.pdf) (slides by Hastie and Tibshirani)
-        + Ridge Regression (RR)
+    + [Ridge Regression](../slides/19-ridge-regression.pdf) (RR)
+    + [Regularization](../slides/20-regularization.pdf) (slides by Hastie and Tibshirani)
+        + Variable Selection
         + Least Absolute Shrinkage and Selection Operator (Lasso)
-    + Extensions of penalized models
 - __Reading__: ISL 6.2; APM 6.4
-- __Lab 7__: RR and Lasso (Oct-16)
+- __Lab 7__: [RR and Lasso](../labs/07-ridge-lasso.pdf) (Oct-16)
 
 -----
 
