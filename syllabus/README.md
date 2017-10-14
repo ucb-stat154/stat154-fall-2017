@@ -111,7 +111,7 @@ These building blocks will allow you to better understand the alternative approa
         + Variable Selection
         + Least Absolute Shrinkage and Selection Operator (Lasso)
 - __Reading__: ISL 6.2; APM 6.4
-- __Lab 7__: [RR and Lasso](../labs/07-ridge-lasso.pdf) (Oct-16)
+- __Lab 7__: [RR and Lasso](../labs/lab07-ridge-lasso.pdf) (Oct-16)
 
 -----
 
