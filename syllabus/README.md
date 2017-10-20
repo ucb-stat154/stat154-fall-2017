@@ -120,8 +120,9 @@ These building blocks will allow you to better understand the alternative approa
 - __Dates__: Oct 16-20
 - __Topics__: Overview of linear regression models with discussion of a set of continuum regression approaches. We will also transition into Classification methods with the introduction to Logistic Regression.
 - __Slides__:
-    + Continuum Regression
+    + Continuum Regression Discussion (chalk and talk)
     + [Logistic Regression (part I)](../slides/22-logistic-regression1.pdf)
+    + [Logistic Regression (part II)](../slides/23-logistic-regression2.pdf)
 - __Reading__: ISL 4.1-4.3; APM 12.2
 - __Lab 8__: Logistic Regression (Oct-23)
 - __Assignment 4:__ [Problem Set 4](../problems/problems4.pdf) (due: Oct-20 before midnight)
@@ -134,7 +135,6 @@ These building blocks will allow you to better understand the alternative approa
 - __Dates__: Oct 23-27
 - __Topics__: The origins and foundations of Discriminant Analysis (DA) are based on Ronald Fisher's geometric approach. This can be considered as classification with an unsupervised touch.
 - __Slides__:
-    + [Logistic Regression (part II)](../slides/23-logistic-regression2.pdf)
     + [Preamble to Discriminant Analysis](../slides/24-discriminant-preamble.pdf)
     + [Geometric Discriminant Analysis](../slides/25-geometric-discriminant-analysis.pdf)
 - __Reading__: ISL 4.4; APM 12.3
