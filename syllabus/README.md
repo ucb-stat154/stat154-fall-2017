@@ -124,7 +124,7 @@ These building blocks will allow you to better understand the alternative approa
     + [Logistic Regression (part I)](../slides/22-logistic-regression1.pdf)
     + [Logistic Regression (part II)](../slides/23-logistic-regression2.pdf)
 - __Reading__: ISL 4.1-4.3; APM 12.2
-- __Lab 8__: Logistic Regression (Oct-23)
+- __Lab 8__: [Logistic Regression](../labs/lab08-logistic-regression.pdf) (Oct-23)
 - __Assignment 4:__ [Problem Set 4](../problems/problems4.pdf) (due: Oct-20 before midnight)
 - __MIDTERM 1__: Friday Oct-20
 
