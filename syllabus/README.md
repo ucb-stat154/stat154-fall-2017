@@ -180,6 +180,7 @@ These building blocks will allow you to better understand the alternative approa
     + Boosting, Bagging
 - __Reading__: ISL 8; APM 8
 - __Lab 12__: TBA (Nov-20)
+- __MIDTERM 2__: Friday Nov-17
 
 -----
 
@@ -193,4 +194,3 @@ These building blocks will allow you to better understand the alternative approa
     + K-means clustering
 - __Reading__: ISL 10
 - __Lab 12__: TBA (Nov-27)
-- __MIDTERM 1__: Friday Oct-20
