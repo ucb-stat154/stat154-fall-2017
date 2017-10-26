@@ -153,7 +153,7 @@ These building blocks will allow you to better understand the alternative approa
     + K-Nearest Neighbors (kNN)
 - __Reading__: ISL 4.4; APM 13.5
 - __Lab 10__: TBA (Nov-06)
-- __Assignment 5:__ Problem Set 5 (due: Nov-06 before midnight)
+- __Assignment 5:__ [Problem Set 5](../problems/problems5.pdf) (due: Nov-05 before midnight)
 
 -----
 
@@ -193,3 +193,4 @@ These building blocks will allow you to better understand the alternative approa
     + K-means clustering
 - __Reading__: ISL 10
 - __Lab 12__: TBA (Nov-27)
+- __MIDTERM 1__: Friday Oct-20
