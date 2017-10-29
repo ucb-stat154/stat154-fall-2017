@@ -139,7 +139,7 @@ These building blocks will allow you to better understand the alternative approa
     + [Geometric Discriminant Analysis (part I)](../slides/25-geometric-discriminant1.pdf)
     + [Geometric Discriminant Analysis (part II)](../slides/26-geometric-discriminant2.pdf)
 - __Reading__: ISL 4.4; APM 12.3
-- __Lab 9__: TBA (Oct-30)
+- __Lab 9__: [Discriminant Analysis](../labs/lab09-lda-qda.pdf) (Oct-30)
 
 -----
 
@@ -148,9 +148,10 @@ These building blocks will allow you to better understand the alternative approa
 - __Dates__: Oct 30-Nov 03
 - __Topics__: Presentation of the probabilistic framework for classiciation purposes with the so-called Bayes Classifier. We move on from geometric DA to Probabilistic DA, and also discuss the non-parametric method kNN.
 - __Slides__:
-    + Bayes Classifier
-    + Linear and Quadratic Discriminant Analysis
-    + K-Nearest Neighbors (kNN)
+    + [Classification](../slides/27-classification.pdf) (slides by Hastie and Tibshirani)
+        + Bayes Classifier
+        + Linear and Quadratic Discriminant Analysis
+        + K-Nearest Neighbors (kNN)
 - __Reading__: ISL 4.4; APM 13.5
 - __Lab 10__: TBA (Nov-06)
 - __Assignment 5:__ [Problem Set 5](../problems/problems5.pdf) (due: Nov-05 before midnight)
