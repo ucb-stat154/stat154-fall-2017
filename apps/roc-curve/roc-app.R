@@ -19,7 +19,9 @@ ui <- fluidPage(
    # Sidebar with a slider input for number of bins 
    sidebarLayout(
       sidebarPanel(
-         sliderInput("threshold",
+        selectInput("method", "Select method", c("LDA", "QDA"), 
+                    selected = "LDA"),
+        sliderInput("threshold",
                      "Class-1 Probability Threshold",
                      min = 0,
                      max = 1,
@@ -37,7 +39,9 @@ ui <- fluidPage(
       
       # Show a plot of the generated distribution
       mainPanel(
-         plotOutput("rocplot")
+        plotOutput("rocplot"),
+        helpText("Area Under the Curve (AUC)"),
+        verbatimTextOutput("auc")
       )
    )
 )
@@ -46,21 +50,25 @@ ui <- fluidPage(
 server <- function(input, output) {
    
    pred_class <- reactive({
-     lda_pred_train_aux <- dat$ldaprob > input$threshold
-     factor(ifelse(lda_pred_train_aux, 'Class1', 'Class2'))
+     if (input$method == 'LDA') {
+       pred_train_aux <- dat$ldaprob > input$threshold
+     } else {
+       pred_train_aux <- dat$qdaprob > input$threshold
+     }
+     factor(ifelse(pred_train_aux, 'Class1', 'Class2'))
    })
    tbl <- reactive({
      tbl <- table(obs = dat$class, pred = pred_class())
    })
    
-   # sensitivity for train LDA
+   # sensitivity for train data
    sensi <- reactive({
      sensitivity(data = pred_class(),
                         reference = dat$class,
                         positive = "Class1")
    })
    
-   # specificity for train LDA
+   # specificity for train data
    speci <- reactive({
      specificity(data = pred_class(),
                        reference = dat$class,
@@ -89,17 +97,25 @@ server <- function(input, output) {
      speci()
    })
    
-   output$rocplot <- renderPlot({
+   train_roc <- reactive({
      # training data ROC Curve
-     lda_train_roc <- roc(
+     selected_prob <- switch(input$method,
+                             'LDA' = dat$ldaprob,
+                             'QDA' = dat$qdaprob)
+     roc(
        response = dat$class,
-       predictor = dat$ldaprob,
-       levels = rev(levels(dat$class))
-     )
+       predictor = selected_prob,
+       levels = rev(levels(dat$class)))
+     })
      
-     # Roc curve
-     plot(lda_train_roc, legacy.axes = TRUE, las = 1, lwd = 3, col = 'gray50')
+   # LDA ROC curve
+   output$rocplot <- renderPlot({
+     plot(train_roc(), legacy.axes = TRUE, las = 1, lwd = 3, col = 'gray50')
      points(speci(), sensi(), pch = 19, col = "tomato", cex = 2)
+   })
+
+   output$auc <- renderText({
+     auc(train_roc())
    })
 }
 
