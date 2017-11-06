@@ -153,7 +153,7 @@ These building blocks will allow you to better understand the alternative approa
         + Linear and Quadratic Discriminant Analysis
         + K-Nearest Neighbors (kNN)
 - __Reading__: ISL 4.4; APM 13.5
-- __Lab 10__: TBA (Nov-06)
+- __Lab 10__: [Comparing Classification Methods](../labs/lab10-knn.pdf) (Nov-06)
 - __Assignment 5:__ [Problem Set 5](../problems/problems5.pdf) (due: Nov-05 before midnight)
 
 -----
@@ -163,10 +163,10 @@ These building blocks will allow you to better understand the alternative approa
 - __Dates__: Nov 06-10
 - __Topics__: Summary of classifications methods, and introduction to decision trees.
 - __Slides__:
-    + Discrimination Synthesis
-    + Classification Performance Measures
+    + Discriminant Analysis Synthesis (chalk and talk)
+    + [Classification Performance Measures](../apps/roc-curve/roc-curve-apm.md)
     + Introduction to Decision Trees
-- __Reading__: APM 11
+- __Reading__: ISL 4, APM 11
 - __Lab 11__: TBA (Nov-13)
 
 -----
