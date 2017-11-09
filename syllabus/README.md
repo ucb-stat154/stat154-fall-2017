@@ -176,7 +176,7 @@ These building blocks will allow you to better understand the alternative approa
 - __Dates__: Nov 13-17
 - __Topics__: Tree-based methods.
 - __Slides__:
-    + More about decision trees
+    + [More about decision trees](../slides/30-decision-trees.pdf)
     + Random Forests
     + Boosting, Bagging
 - __Reading__: ISL 8; APM 8
