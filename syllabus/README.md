@@ -167,7 +167,7 @@ These building blocks will allow you to better understand the alternative approa
     + [Classification Performance Measures](../apps/roc-curve/roc-curve-apm.md)
     + [Introduction to Decision Trees](../slides/29-trees-introduction.pdf)
 - __Reading__: ISL 4, APM 11
-- __Lab 11__: TBA (Nov-13)
+- __Lab 11__: [ROC Curve and SVM](../labs/lab11-svm.pdf) (Nov-13)
 
 -----
 
