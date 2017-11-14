@@ -165,7 +165,7 @@ These building blocks will allow you to better understand the alternative approa
 - __Slides__:
     + Discriminant Analysis Synthesis (chalk and talk)
     + [Classification Performance Measures](../apps/roc-curve/roc-curve-apm.md)
-    + [Introduction to Decision Trees](../slides/29-trees-introduction.pdf)
+    + [Introduction to Decision Trees](../slides/28-trees-introduction.pdf)
 - __Reading__: ISL 4, APM 11
 - __Lab 11__: [ROC Curve and SVM](../labs/lab11-svm.pdf) (Nov-13)
 
@@ -176,7 +176,7 @@ These building blocks will allow you to better understand the alternative approa
 - __Dates__: Nov 13-17
 - __Topics__: Tree-based methods.
 - __Slides__:
-    + [More about decision trees](../slides/30-decision-trees.pdf)
+    + [More about decision trees](../slides/29-decision-trees.pdf)
     + Random Forests
     + Boosting, Bagging
 - __Reading__: ISL 8; APM 8
