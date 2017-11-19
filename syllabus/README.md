@@ -182,7 +182,7 @@ These building blocks will allow you to better understand the alternative approa
         + Bagging
         + Random Forest
 - __Reading__: ISL 8; APM 8
-- __Lab 12__: TBA (Nov-20)
+- __Lab 12__: [Trees](../labs/tree-based-methods.pdf) (Nov-20)
 - __MIDTERM 2__: Friday Nov-17
 
 -----
