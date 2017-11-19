@@ -178,8 +178,9 @@ These building blocks will allow you to better understand the alternative approa
 - __Slides__:
     + [More about decision trees](../slides/29-decision-trees.pdf)
     + [Intro to `rpart`](../papers/Intro-to-rpart.md)
-    + Random Forests
-    + Boosting, Bagging
+    + [Tree-based methods](../slides/30-tree-based-methods.pdf) (slides by Hastie and Tibshirani)
+        + Bagging
+        + Random Forest
 - __Reading__: ISL 8; APM 8
 - __Lab 12__: TBA (Nov-20)
 - __MIDTERM 2__: Friday Nov-17
