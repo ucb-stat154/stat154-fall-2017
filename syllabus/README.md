@@ -182,7 +182,7 @@ These building blocks will allow you to better understand the alternative approa
         + Bagging
         + Random Forest
 - __Reading__: ISL 8; APM 8
-- __Lab 12__: [Trees](../labs/tree-based-methods.pdf) (Nov-20)
+- __Lab 12__: [Trees](../labs/lab12-tree-based-methods.pdf) (Nov-20)
 - __MIDTERM 2__: Friday Nov-17
 
 -----
@@ -190,10 +190,11 @@ These building blocks will allow you to better understand the alternative approa
 ## Clustering
 
 - __Dates__: Nov 27-Dec 01
-- __Topics__: Clustering.
+- __Topics__: Finding groups in data with Clustering. This is the second unpervised
+learning tool of the course, covering partition methods as well as hierarchical 
+agglomerative techniques.
 - __Slides__:
-    + Hierarchical Clustering (part 1)
-    + Hierarchical Clustering (part 2)
     + K-means clustering
+    + Hierarchical Clustering
 - __Reading__: ISL 10
-- __Lab 12__: TBA (Nov-27)
+- __Lab 13__: [Clustering](../labs/lab13-clustering.pdf) (Nov-27)
