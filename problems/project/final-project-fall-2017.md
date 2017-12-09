@@ -1,6 +1,6 @@
 Stat 154 - Fall 2017, Final Project
 ================
-Due date: December 10, 2017
+Due date: December 11, 2017
 
 Submission Instructions
 -----------------------

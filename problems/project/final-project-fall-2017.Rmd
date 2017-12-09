@@ -1,6 +1,6 @@
 ---
 title: "Stat 154 - Fall 2017, Final Project"
-date: "Due date: December 10, 2017"
+date: "Due date: December 11, 2017"
 output: github_document
 fontsize: 12pt
 ---
